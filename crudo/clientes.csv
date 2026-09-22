@@ -1,0 +1,1246 @@
+id_cliente,rut,nombre,fecha_nacimiento,comuna,fecha_alta_tarjeta,canal_alta,acepta_promociones
+C00001,90264175-0,Luis Espinoza Ramírez,1979-03-01,YUNGAY,2022-07-16,Campaña en local,True
+C00002,93549172-K,Tomás Aguilera Parra,2006-03-19,Coihueco,2023-10-02,App móvil,True
+C00003,96560864-8,Pedro Fuentes Silva,1987-01-24,San Carlos,2023-01-20,Caja,False
+C00004,92263330-4,Ximena Martínez Sepúlveda,1983-01-29,Bulnes,2020-06-06,,True
+C00005,99352446-8,Fernanda Carrasco Morales,1972-07-29,Quirihue,2021-03-17,Sitio web,True
+C00006,93451005-4,Catalina Castillo Torres,2000-03-12,Chillán,2022-10-10,App móvil,True
+C00007,94727614-K,Pedro Aguilera Molina,1947-12-04,Bulnes,2023-08-29,Caja,True
+C00008,95484830-2,Benjamín Cárdenas Sandoval,1940-02-01,San Carlos,2024-04-13,Caja,False
+C00009,97527194-3,Cristian Pérez Martínez,2002-10-14,Trehuaco,2022-05-29,Caja,True
+C00010,99047039-1,Valentina Carrasco Castillo,1996-03-15,Yungay,2022-11-21,Campaña en local,False
+C00011,92982383-4,Sergio Muñoz Muñoz,2005-05-28,Chillán,2020-08-09,Sitio web,True
+C00012,92977094-3,Constanza Lagos Castro,1986-07-06,bulnes,2020-12-29,Sitio web,False
+C00013,91724613-0,Marcela Cárdenas Fernández,1995-04-06,Coihueco,2020-08-17,Caja,False
+C00014,96390261-1,Karen Gutiérrez Contreras,1975-12-07,,2021-06-19,Caja,False
+C00015,92843863-5,Ximena Vergara Vidal,1979-12-09,Coihueco,2020-12-20,Caja,False
+C00016,932133768,José Tapia Pérez,1983-03-31,Bulnes,2023-01-28,Caja,True
+C00017,99933938-7,Isidora Torres Navarro,1993-10-11,Chillán,2022-12-28,Sitio web,False
+C00018,93.136.667-K,Sandra Lagos Bravo,1953-12-27,Quillón,2023-08-29,App móvil,True
+C00019,97069583-4,Pamela Flores Bravo,1996-07-29,Bulnes,2021-01-10,Caja,True
+C00020,968879464,Patricia Rojas Soto,1952-08-01,Chillán Viejo,2023-06-11,Caja,True
+C00021,93.595.724-9,Sergio Rodríguez Riquelme,1991-06-22,Chillán,2022-01-22,App móvil,True
+C00022,96679798-3,Sebastián Fuentes Tapia,1977-10-09,Chillán,2020-12-07,App móvil,True
+C00023,95462995-3,Valentina Contreras Bravo,1969-12-17,Chillán,2024-04-18,Caja,True
+C00024,94658124-0,Luis Guzmán Navarro,1998-07-31,Chillán,2022-02-27,App móvil,True
+C00025,91802505-7,Rosa Molina Aguilera,1997-04-16,Bulnes,2020-12-29,App móvil,True
+C00026,92754808-9,Claudia Campos Vásquez,2001-03-11,San Carlos,2022-03-23,Sitio web,False
+C00027,94023537-5,Mauricio Hernández Campos,1938-12-22,Yungay,2023-09-14,Sitio web,True
+C00028,93.562.216-6,Isidora Álvarez Díaz,2000-09-28,Chillán,2021-10-10,App móvil,False
+C00029,92721752-K,Catalina Castillo Bravo,1981-04-15,Chillán,2023-05-12,Caja,False
+C00030,902094482,Álvaro Vergara Castro,1996-05-04,Coihueco,2023-11-02,Caja,True
+C00031,95201722-5,Pedro Vásquez Torres,1948-06-11,Chillán,2020-06-28,Caja,False
+C00032,98870120-3,Ximena Castro Hernández,1998-01-11,Coihueco,2022-05-13,,True
+C00033,90.088.820-1,Sergio Castro Vásquez,1970-09-03,Chillán,2020-06-02,Caja,True
+C00034,91381690-0,Úrsula Muñoz Martínez,1989-04-15,chillán,2022-05-04,Campaña en local,False
+C00035,90422879-6,Matías Molina Castillo,2002-06-18,Trehuaco,2020-08-29,Caja,True
+C00036,95.584.556-0,Patricia Herrera Pizarro,1990-11-16,Chillán,2021-02-27,App móvil,True
+C00037,90577575-8,Isidora Aguilera Soto,1971-01-10,bulnes,2020-05-24,Caja,True
+C00038,94.313.234-8,Héctor Yáñez Martínez,1938-02-22,Chillán,2022-09-19,Sitio web,False
+C00039,980246191,Cristian Álvarez Vera,1978-04-02,San Carlos,2020-06-17,Caja,False
+C00040,97.744.686-4,Javiera Díaz Soto,1958-10-18,Chillán,2021-03-05,Caja,False
+C00041,94737627-6,Gabriela Álvarez Castro,2001-08-23,Chillán,2024-05-19,Sitio web,True
+C00042,91895669-7,Jorge Guzmán Navarro,1962-06-28,San Carlos,2022-12-09,App móvil,False
+C00043,90564748-2,Sebastián Pérez Contreras,1984-09-26,Pinto,2022-04-21,App móvil,True
+C00044,90853561-8,Héctor Espinoza Torres,1996-12-30,san carlos,2023-12-29,,False
+C00045,98020691-2,Sebastián Bravo Pizarro,1940-03-29,Chillán Viejo,2022-10-24,App móvil,True
+C00046,97115104-8,Pamela Tapia Parra,1970-08-07,,2022-11-04,Sitio web,False
+C00047,97784638-2,Nicolás Martínez Vergara,1999-12-12,  Chillán ,2023-08-10,App móvil,True
+C00048,97831342-6,Benjamín Vergara Hernández,1950-07-11,San Carlos,2023-06-17,Caja,True
+C00049,92491320-7,Lorena Cárdenas Valenzuela,2005-03-13,Chillán Viejo,2021-04-16,App móvil,True
+C00050,99421655-4,Ximena Torres Pérez,1986-04-24,Pinto,2020-11-14,Caja,False
+C00051,92427040-3,Karen Rodríguez Navarro,1972-04-25,Chillán,2022-12-21,Caja,True
+C00052,96.571.230-5,Cristian Vergara López,1991-02-01,San Fabián,2022-08-22,Sitio web,True
+C00053,90423210-6,Pamela Espinoza Díaz,1989-03-30,,2022-01-03,Caja,False
+C00054,96.385.457-9,Patricia Vergara López,1996-11-29,Chillán Viejo,2020-11-12,Caja,True
+C00055,92385305-7,Antonia Díaz Araya,2002-11-02,Chillán,2021-07-09,App móvil,False
+C00056,97401311-8,José Parra Herrera,2001-02-13,Bulnes,2022-11-27,Caja,True
+C00057,91021790-9,Verónica Poblete Yáñez,1983-09-13,Chillán,2021-12-13,Caja,True
+C00058,92906058-K,Constanza Aguilera Díaz,1994-08-21,,2021-09-24,Campaña en local,True
+C00059,99.043.090-K,Antonia Castillo Rodríguez,1975-07-11,  Coihueco ,2023-03-16,Caja,False
+C00060,94100233-1,Jorge Muñoz Figueroa,1943-04-06,Chillán,2020-12-05,Sitio web,True
+C00061,92746485-3,Paola Riquelme Araya,1997-08-22,Chillán,2023-08-01,App móvil,False
+C00062,93.308.994-0,Mauricio Gutiérrez Sandoval,1973-06-09,San Fabián,2021-07-23,Caja,True
+C00063,93.360.201-K,Diego González Silva,1985-04-19,,2021-08-31,Sitio web,True
+C00064,93.953.517-9,Lorena Silva Salazar,1973-03-17,Pemuco,2021-04-28,Caja,False
+C00065,92075540-2,Úrsula Castro Poblete,1985-05-30,Coelemu,2023-09-14,Caja,True
+C00066,90.751.944-9,Nicolás Vásquez Álvarez,2000-05-19,Quillón,2024-04-30,Sitio web,False
+C00067,96183493-7,Rodrigo Soto Araya,1982-04-29,San Ignacio,2023-01-04,Caja,False
+C00068,91638177-8,Verónica Flores Valenzuela,1955-06-28,Chillán,2021-05-02,Caja,False
+C00069,93156586-9,Verónica Morales Bravo,1950-06-01,Trehuaco,2020-05-25,Caja,True
+C00070,95439146-9,Francisco Salazar Parra,1999-05-26,San Fabián,2022-08-26,Sitio web,True
+C00071,94.436.005-0,Verónica Hernández Ramírez,1993-02-14,Quillón,2020-06-25,App móvil,True
+C00072,99356864-3,Claudia Fuentes Vásquez,1995-10-06,CHILLÁN,2023-12-25,App móvil,True
+C00073,93306462-K,Álvaro Pérez Parra,1995-05-27,San Carlos,2021-04-27,Caja,True
+C00074,97.621.390-4,Óscar Muñoz Soto,2000-08-27,San Carlos,2024-04-07,App móvil,True
+C00075,92816382-2,Óscar Pizarro Gutiérrez,1982-03-05,Ñiquén,2023-07-10,Caja,True
+C00076,95.151.547-7,Javiera Díaz Molina,1995-02-05,COIHUECO,2021-07-15,Sitio web,False
+C00077,93911479-3,Fernanda Fernández Carrasco,1992-09-26,  Chillán ,2021-11-14,Caja,True
+C00078,92.842.263-1,Benjamín Pizarro Muñoz,1980-10-26,Chillán,2023-05-03,Sitio web,True
+C00079,98.756.366-4,Patricia López Reyes,2005-12-08,SAN CARLOS,2020-12-12,Sitio web,False
+C00080,93744042-1,Pedro Rodríguez Herrera,1970-05-16,chillán viejo,2021-02-21,Campaña en local,True
+C00081,91.683.369-5,Mauricio Castillo Rojas,1899-01-01,San Carlos,2022-05-18,Campaña en local,True
+C00082,98.115.157-7,Pamela Lagos Pérez,2003-11-17,El Carmen,2023-09-16,Sitio web,False
+C00083,91423796-3,Rodrigo Hernández Vera,2000-10-15,Quillón,2021-03-19,App móvil,False
+C00084,90554181-1,Francisco Martínez Hernández,1946-10-26,Quillón,2022-11-26,Campaña en local,True
+C00085,911326590,Luis Carrasco Díaz,1979-08-20,San Nicolás,2020-11-19,App móvil,False
+C00086,99700480-9,Karen Riquelme Castillo,1984-03-08,Chillán,2024-04-17,Caja,True
+C00087,927891948,Úrsula Cárdenas Castro,1993-10-22,El Carmen,2022-11-04,Campaña en local,True
+C00088,91.287.953-4,Manuel Lagos Lagos,1948-08-22,San Nicolás,2023-06-16,Campaña en local,False
+C00089,94540879-0,Ana Torres Martínez,1996-11-11,Chillán,2022-04-10,Caja,False
+C00090,99.906.395-0,Úrsula Ramírez Poblete,1990-03-30,Yungay,2021-01-13,,True
+C00091,946038237,Francisco Pérez Campos,1985-11-12,Chillán,2022-11-29,Caja,False
+C00092,90845042-6,Joaquín Reyes Navarro,1999-12-22,San Carlos,2021-04-18,Sitio web,False
+C00093,94.666.712-9,Antonia Tapia Hernández,1980-02-13,Pinto,2021-04-17,App móvil,True
+C00094,97.499.414-3,Felipe Yáñez Muñoz,1993-10-23,Quirihue,2023-04-01,Caja,True
+C00095,989478737,Úrsula Pizarro Reyes,1984-10-22,Chillán,2022-02-03,Campaña en local,True
+C00096,93821945-1,Ignacio Vidal Cárdenas,1986-06-29,  Coihueco ,2024-01-03,App móvil,True
+C00097,954651282,Rodrigo Campos Silva,1980-06-05,El Carmen,2020-08-17,Campaña en local,False
+C00098,97.546.414-8,Fernanda Díaz Vergara,2003-12-26,Bulnes,2021-06-14,Caja,True
+C00099,90996362-1,Felipe Campos Riquelme,1955-08-04,el carmen,2021-09-14,Caja,False
+C00100,92658393K,Fernanda López Salazar,1979-11-27,Chillán,2021-11-07,Caja,False
+C00101,939803300,Tomás Rodríguez Vergara,2004-10-06,Chillán,2020-12-25,App móvil,False
+C00102,90.737.000-3,Óscar Silva Lagos,1988-10-07,San Carlos,2023-12-02,Sitio web,False
+C00103,907381935,Fernanda Rojas Morales,2004-01-20,San Fabián,2020-08-22,App móvil,True
+C00104,95833463K,Valentina Guzmán Aguilera,1958-04-09,Bulnes,2022-08-08,App móvil,False
+C00105,99356951-8,Ricardo Vásquez Navarro,1997-02-22,Yungay,2020-12-31,App móvil,False
+C00106,92883497-2,Luis Riquelme Castro,1986-01-06,San Carlos,2022-04-30,Caja,False
+C00107,90.616.439-6,Cristian López Guzmán,2001-12-15,Yungay,2021-03-21,Sitio web,False
+C00108,92.845.492-4,Álvaro Poblete Figueroa,1957-05-11,Pinto,2021-07-08,Campaña en local,False
+C00109,95963018-6,Cristian Fuentes Valenzuela,1941-05-17,Chillán,2020-05-26,App móvil,False
+C00110,90050607-4,Manuel Soto Aguilera,1972-08-04,Chillán,2023-05-01,App móvil,True
+C00111,95172416-5,Sandra Yáñez Bravo,2001-12-16,Coelemu,2021-10-07,Caja,True
+C00112,932212854,Luis Salazar Navarro,1985-06-20,Chillán,2021-01-09,Sitio web,True
+C00113,97595275-4,Héctor Sepúlveda Soto,2001-06-28,Ñiquén,2024-02-29,Caja,True
+C00114,96945808-K,Nicolás Reyes Molina,1993-06-24,San Carlos,2021-06-27,Caja,True
+C00115,97775341-4,Daniela Flores Herrera,1994-05-13,Coihueco,2021-06-25,Sitio web,True
+C00116,93.825.904-6,Rosa Ramírez Herrera,2002-10-07,Chillán,2022-12-01,Caja,True
+C00117,98.098.241-6,Isidora Pérez González,1981-01-29,San Carlos,2021-12-23,Caja,False
+C00118,95.790.628-1,Camila Silva Bravo,1989-01-21,San Ignacio,2023-11-12,App móvil,True
+C00119,92855387-6,Karen Vera Fernández,1983-09-17,San Carlos,2022-12-12,Sitio web,True
+C00120,954783340,Joaquín Cárdenas Campos,1972-10-14,Coihueco,2023-09-13,Sitio web,False
+C00121,95.893.045-3,Fernanda Espinoza Rojas,1992-07-12,Quirihue,2022-10-13,Caja,False
+C00122,908574044,Rosa Riquelme López,1953-07-22,Yungay,2022-09-26,Caja,True
+C00123,97609963-k,Fernanda Fernández Bravo,1991-03-27,Chillán Viejo,2020-12-17,Caja,False
+C00124,97.862.189-9,Catalina López Díaz,1998-12-02,Chillán Viejo,2023-11-18,Sitio web,True
+C00125,966882395,Héctor Parra Castillo,1945-04-04,Quillón,2023-06-21,Caja,False
+C00126,92.070.884-6,Antonia Fuentes Molina,1946-03-13,coihueco,2023-09-27,,True
+C00127,90.785.463-9,Úrsula Vidal Valenzuela,1985-10-07,San Carlos,2023-10-11,Caja,True
+C00128,92657788-3,Ana Ramírez Figueroa,2027-05-14,Portezuelo,2020-12-18,Caja,True
+C00129,99220634-9,Héctor Rojas Vergara,1985-08-16,Quillón,2024-04-03,Caja,True
+C00130,99813771-3,Paola Vergara Cárdenas,1989-02-23,El Carmen,2023-09-13,Caja,True
+C00131,95837834-3,Úrsula Torres Silva,1936-10-25,ñiquén,2023-02-25,Sitio web,True
+C00132,96.583.864-3,Joaquín Aguilera Contreras,1995-04-06,,2020-10-01,Campaña en local,False
+C00133,920322360,Rodrigo Aguilera Vidal,1938-09-17,BULNES,2021-03-17,App móvil,True
+C00134,91416506-7,Karen López Pérez,1986-01-28,Coihueco,2022-05-18,Sitio web,False
+C00135,91015630-6,María Salazar Castro,1969-11-07,Quillón,2023-10-17,Caja,True
+C00136,90091731-7,Fernanda Valenzuela Carrasco,1994-02-15,chillán,2022-07-31,Sitio web,False
+C00137,91876529-8,Matías Vásquez Sandoval,1941-06-08,Chillán,2023-07-01,Sitio web,True
+C00138,92.451.593-7,Sergio Ramírez Carrasco,1976-10-30,Chillán,2022-10-24,Sitio web,False
+C00139,99360139K,Camila Ramírez Flores,1996-09-24,San Fabián,2023-10-28,Sitio web,True
+C00140,92850735-1,Matías Parra Sandoval,1994-08-20,chillán,2023-02-03,Campaña en local,False
+C00141,97.261.524-2,Verónica Fernández Torres,1986-04-15,Chillán Viejo,2020-10-28,Sitio web,False
+C00142,93.196.444-5,Lorena Reyes Salazar,1992-01-27,Coihueco,2021-07-22,App móvil,False
+C00143,983548474,Juan Pérez Vergara,1988-12-16,CHILLÁN,2024-02-18,App móvil,True
+C00144,959358125,Juan Campos Espinoza,1975-03-06,Chillán,2021-03-02,Caja,True
+C00145,95883135-8,Claudia Rojas Silva,1986-12-24,Bulnes,2022-03-18,Caja,True
+C00146,90591069-8,Sandra Hernández Espinoza,1993-10-05,  Chillán Viejo ,2023-07-29,Caja,True
+C00147,93991757-8,Catalina Poblete Ramírez,1940-12-02,San Carlos,2024-01-31,App móvil,True
+C00148,90.550.420-7,Antonia Ramírez Flores,1970-10-09,Chillán,2022-12-28,Sitio web,True
+C00149,97704586-K,Úrsula Bravo Gutiérrez,1972-09-26,Chillán Viejo,2022-06-05,Caja,True
+C00150,97269770-2,Catalina Díaz Rojas,1993-10-28,San Nicolás,2020-08-22,Caja,True
+C00151,94.428.062-6,Diego Riquelme Salazar,1982-12-16,San Ignacio,2020-09-12,Campaña en local,True
+C00152,94913495-4,José Hernández Fernández,1980-07-18,Coihueco,2021-10-20,Caja,True
+C00153,94792676-4,Tomás Contreras Parra,1972-04-08,Coihueco,2020-11-15,,True
+C00154,974431548,Camila Cárdenas Riquelme,1947-11-01,Coihueco,2021-03-29,Campaña en local,False
+C00155,98.193.809-7,Úrsula Muñoz Ramírez,1989-10-07,Chillán,2022-01-18,Caja,True
+C00156,945348143,Ricardo Campos Araya,1986-05-09,  Quirihue ,2021-09-04,Caja,True
+C00157,95840038-1,Gabriela Valenzuela Aguilera,1998-02-24,Chillán,2021-01-03,App móvil,True
+C00158,96653281-5,Rosa Fernández Figueroa,1981-03-27,Chillán Viejo,2021-01-21,Caja,True
+C00159,97890062-3,Felipe Ramírez Valenzuela,1937-01-25,CHILLÁN VIEJO,2021-05-22,Caja,False
+C00160,915204805,Joaquín Aguilera Valenzuela,1979-05-22,Chillán,2023-10-08,,True
+C00161,92.972.914-5,Sandra Riquelme Molina,1950-12-04,Coihueco,2020-07-07,Caja,False
+C00162,92.220.406-3,Sandra Álvarez Campos,1940-11-16,Bulnes,2021-02-12,Caja,True
+C00163,91610912-1,Sandra Yáñez Araya,1992-10-12,Chillán,2023-04-05,App móvil,False
+C00164,930743771,Valentina Valenzuela Aguilera,1957-01-15,Chillán,2020-06-07,App móvil,True
+C00165,97.394.584-K,Marcela Herrera Ramírez,1993-02-08,,2023-09-23,Caja,True
+C00166,93913910-9,Isidora Silva Poblete,1959-12-16,Pemuco,2022-05-30,Caja,False
+C00167,98648042-0,Manuel Espinoza Pizarro,1985-07-03,bulnes,2023-12-23,Caja,False
+C00168,97458082-9,Lorena Guzmán Pizarro,2002-05-21,Chillan Viejo,2023-04-23,Caja,True
+C00169,95.235.120-6,Pedro Castillo Sandoval,1979-02-09,Chillán Viejo,2023-04-26,App móvil,True
+C00170,91118845-7,Diego González Díaz,1990-03-17,Chillán,2021-04-08,Caja,False
+C00171,91749012-0,Gabriela Rojas Díaz,2004-04-05,Quirihue,2023-03-22,Sitio web,False
+C00172,96.414.010-3,Javiera Espinoza Vera,1946-10-09,Chillán,2022-07-14,,True
+C00173,95040976-2,Paola Morales Castillo,1955-10-31,Coihueco,2022-08-28,,False
+C00174,96.041.325-3,Natalia Sandoval Vidal,1994-07-24,San Nicolás,2023-03-01,Campaña en local,False
+C00175,95161593-5,Benjamín Lagos Ramírez,1989-05-08,San Ignacio,2023-11-20,Campaña en local,False
+C00176,93127389-2,Mauricio Tapia Martínez,1993-11-08,Pemuco,2020-10-19,App móvil,False
+C00177,96.001.495-2,Óscar Aguilera Salazar,1938-09-20,,2023-09-05,Caja,False
+C00178,99.309.288-6,Pamela Castillo Salazar,2006-03-27,Quirihue,2024-05-12,Sitio web,True
+C00179,97.924.008-2,Cristian González Poblete,1999-12-06,Chillán,2022-05-17,Caja,True
+C00180,92572848-9,Ignacio Vera Reyes,1957-11-09,Chillán,2021-03-29,Caja,True
+C00181,90.142.502-7,José Rodríguez Guzmán,1989-04-12,Yungay,2022-10-16,Caja,True
+C00182,92.551.695-3,Francisco Araya Fernández,1989-10-02,Chillán,2022-05-05,App móvil,False
+C00183,90.661.125-2,Claudia Parra Díaz,1994-09-11,  Coelemu ,2023-12-13,App móvil,True
+C00184,93153229-4,Lorena Muñoz Ramírez,2002-03-04,Quillón,2022-12-09,Caja,True
+C00185,98123118-K,Ignacio Torres Vergara,1944-03-06,Pemuco,2020-09-29,Caja,False
+C00186,94589350-8,Juan Riquelme Ramírez,1995-11-20,Chillán,2020-09-30,Caja,False
+C00187,93980977-5,Natalia Sandoval Molina,2003-12-15,Coihueco,2021-08-20,App móvil,False
+C00188,98090220-K,Luis Guzmán Hernández,1970-01-23,Chillán,2022-01-08,Caja,True
+C00189,91561585-6,Daniela Gutiérrez Vera,1973-01-07,,2024-03-14,Caja,True
+C00190,96440816-5,Luis Fuentes Gutiérrez,1976-06-24,Quillón,2023-08-04,App móvil,True
+C00191,901814309,Joaquín Navarro González,1979-09-02,Chillán,2020-08-01,App móvil,False
+C00192,98954114-5,Juan Tapia Castro,1972-06-13,Chillán,2024-03-27,Caja,True
+C00193,94597710-8,Camila Parra Muñoz,1993-01-30,  Coihueco ,2024-01-24,Campaña en local,True
+C00194,96588671-0,Camila Muñoz Bravo,1993-11-12,San Carlos,2023-08-29,Caja,True
+C00195,95.452.634-8,Camila Tapia Fuentes,1989-04-11,Bulnes,2021-01-17,Caja,False
+C00196,90670956-2,Juan Araya Muñoz,1950-10-01,Chillán,2022-11-30,Campaña en local,True
+C00197,936021387,Javiera Silva Ramírez,2001-07-18,san carlos,2023-07-20,Campaña en local,False
+C00198,95939127-0,Camila Pizarro González,1992-06-14,Pinto,2023-09-29,Caja,True
+C00199,926588885,Óscar Sandoval Contreras,1992-11-28,yungay,2020-07-23,Caja,False
+C00200,945950641,Javiera Lagos Muñoz,1991-07-01,,2021-12-19,,False
+C00201,97041785-0,Felipe Salazar Fernández,1979-12-18,CHILLÁN,2022-07-17,App móvil,True
+C00202,98.122.769-7,Ana Vidal Lagos,2007-06-11,San Ignacio,2021-10-22,Caja,True
+C00203,922137404,Álvaro Díaz Parra,1988-04-18,Chillán,2023-01-02,Caja,False
+C00204,93254020-7,Catalina Molina Torres,1995-10-03,  Coihueco ,2024-01-16,App móvil,False
+C00205,90122607-5,Sandra Morales Muñoz,1940-07-06,Chillan,2021-06-03,Caja,True
+C00206,95633271-0,Cristian Figueroa Valenzuela,2006-06-26,CHILLÁN,2023-04-17,App móvil,True
+C00207,940416965,Paola Martínez Castillo,1994-08-16,chillán,2020-09-07,Caja,True
+C00208,92272193-9,Carmen Martínez Morales,2002-01-15,Chillán,2020-12-03,App móvil,True
+C00209,919420170,María Vera Salazar,1978-09-23,Bulnes,2024-01-28,Caja,True
+C00210,91788065-4,Héctor González Parra,1999-07-06,Chillán,2020-06-15,Caja,False
+C00211,93108156-K,Álvaro Araya Herrera,1947-04-26,Coihueco,2024-04-19,Sitio web,False
+C00212,92936839-8,Juan Vera Vergara,1977-08-05,Chillán,2024-04-20,Caja,False
+C00213,94681780-5,Daniela Figueroa Fuentes,2000-11-07,Coihueco,2023-08-24,App móvil,True
+C00214,98675876-3,Joaquín Sepúlveda Pérez,1956-01-28,Chillán,2022-11-28,Campaña en local,True
+C00215,962104541,Jorge Díaz Valenzuela,2000-10-25,Coelemu,2020-11-21,App móvil,True
+C00216,97.363.684-7,Benjamín Bravo Fuentes,1974-09-24,Quillón,2022-01-02,Campaña en local,False
+C00217,991620338,Marcela Araya Ramírez,1937-02-24,,2024-03-07,Caja,True
+C00218,99621357-9,Cristian Reyes López,1999-08-02,Chillán,2023-10-08,Caja,True
+C00219,997019806,Constanza Rodríguez Vera,1941-11-15,San Carlos,2022-04-18,Caja,False
+C00220,98362499-5,Joaquín Fernández Torres,1993-06-30,Bulnes,2022-06-03,Caja,False
+C00221,98973010-K,Sebastián Campos Álvarez,1969-08-16,Chillán,2021-08-16,Caja,False
+C00222,91855092-5,Sebastián Carrasco Yáñez,1989-04-10,bulnes,2023-05-04,Caja,True
+C00223,96.086.818-8,Verónica Flores Castillo,1999-12-03,Chillan,2023-07-24,Sitio web,False
+C00224,942777442,Felipe Rojas Fuentes,1971-09-28,Bulnes,2023-01-25,Caja,True
+C00225,97832527-0,Ximena Fuentes Morales,1986-11-03,San Carlos,2020-07-17,App móvil,False
+C00226,92376793-2,Paola Castillo Castillo,1980-05-01,,2023-12-03,Caja,False
+C00227,96246931-0,Natalia Muñoz Carrasco,1938-03-04,Chillán,2022-04-09,Caja,True
+C00228,97.194.084-0,Verónica Pérez Carrasco,1986-08-14,chillán,2021-05-01,Sitio web,False
+C00229,91227781K,Álvaro Soto Reyes,1984-12-26,Ninhue,2022-04-21,App móvil,True
+C00230,959601275,Natalia González Aguilera,1986-06-01,quillón,2022-09-21,Caja,True
+C00231,94804765-9,Lorena Valenzuela Valenzuela,2000-06-12,Chillán,2024-03-28,Caja,True
+C00232,96.487.255-4,Antonia Rodríguez Valenzuela,2002-02-16,San Carlos,2022-10-01,Caja,True
+C00233,93573626-9,Ximena Poblete Vidal,1976-12-11,Yungay,2021-08-19,App móvil,False
+C00234,90634267-7,Ana Lagos Lagos,1988-06-16,Chillán Viejo,2020-08-24,Campaña en local,True
+C00235,98.422.527-K,Felipe Martínez Ramírez,1942-02-19,Chillán,2022-07-19,Campaña en local,False
+C00236,94.293.485-8,Karen Vásquez Muñoz,1982-03-07,Chillán,2023-08-09,Caja,False
+C00237,933278344,Héctor Contreras Vergara,1958-10-16,Chillán,2023-07-24,Sitio web,False
+C00238,95734046-6,Claudia Salazar Hernández,1998-04-13,San Carlos,2024-04-29,Caja,True
+C00239,96088159-1,Tomás Valenzuela Yáñez,1982-11-09,Bulnes,2021-06-29,Caja,True
+C00240,92269716-7,Joaquín Reyes Yáñez,1982-07-22,Bulnes,2022-12-01,Caja,False
+C00241,97113728-2,Fernanda Vidal Muñoz,2005-04-13,,2020-06-17,Caja,True
+C00242,93.733.100-2,Ricardo Pérez Riquelme,1976-05-15,Trehuaco,2022-12-10,Sitio web,True
+C00243,96.777.903-2,Luis Valenzuela Torres,1993-01-23,Coihueco,2020-05-25,Caja,True
+C00244,94164026-5,Nicolás Herrera Sandoval,1900-01-01,  Chillán Viejo ,2020-12-29,Caja,True
+C00245,97.481.849-3,Javiera Sepúlveda Rojas,1944-06-06,San Carlos,2022-06-11,Caja,True
+C00246,91.324.700-0,Felipe Vergara Araya,1993-03-03,  Bulnes ,2024-03-02,,False
+C00247,97.028.339-0,Marcela Vera Vergara,1989-05-21,Quillón,2024-04-19,Caja,True
+C00248,96345392-2,Diego López Pizarro,1960-06-24,El Carmen,2020-11-13,Caja,True
+C00249,96447964-K,José Díaz Araya,1983-01-08,El Carmen,2022-07-04,App móvil,True
+C00250,99588802-5,Úrsula Fuentes Figueroa,1955-10-27,Chillán,2022-04-28,App móvil,True
+C00251,90976770-9,Ricardo Castro Sandoval,1988-07-22,  San Carlos ,2020-10-09,Caja,True
+C00252,97.465.226-9,Catalina Bravo Carrasco,1975-05-24,Chillán,2021-10-20,Caja,False
+C00253,99.677.772-3,Benjamín Valenzuela Tapia,2006-04-30,San Ignacio,2021-04-08,Caja,True
+C00254,97849736-5,Benjamín Navarro Ramírez,1986-07-26,  Coelemu ,2020-09-06,Caja,True
+C00255,98129164-6,Diego Reyes Vásquez,2002-01-10,Chillán Viejo,2022-01-21,Caja,False
+C00256,90.699.651-0,Óscar Fernández López,1972-05-09,Chillán,2021-07-07,Caja,True
+C00257,91452801-1,Catalina Morales Fuentes,1983-01-29,San Carlos,2024-01-30,Sitio web,True
+C00258,97250082-8,Carmen Castro Espinoza,2003-03-12,Bulnes,2021-08-15,Sitio web,True
+C00259,90543629-5,Ximena Cárdenas Vergara,1955-05-05,San Carlos,2022-07-10,Caja,True
+C00260,963600216,Catalina Parra Silva,1972-03-30,,2023-01-05,App móvil,False
+C00261,952689452,Jorge Vásquez González,1971-09-09,Chillán,2020-12-29,Caja,False
+C00262,93696640-3,Tomás Castro Aguilera,1994-10-07,Chillán,2023-07-16,Caja,True
+C00263,96.249.388-2,Carmen Muñoz Cárdenas,2003-08-31,Coihueco,2023-03-15,Sitio web,True
+C00264,96403316-1,Pamela Valenzuela Molina,2005-08-01,San Ignacio,2020-06-28,App móvil,True
+C00265,91097007-0,Catalina Lagos Fuentes,1994-05-21,Chillán,2022-11-14,Campaña en local,True
+C00266,99.943.915-2,Catalina Poblete Díaz,1990-06-17,Bulnes,2023-04-21,Caja,True
+C00267,98510377-1,Diego Morales Tapia,1997-09-04,,2022-12-28,Campaña en local,True
+C00268,98340725-0,Pamela Fernández Tapia,1971-08-02,Yungay,2023-10-02,,False
+C00269,91390625-K,Héctor Hernández Bravo,1975-11-19,Chillán,2023-10-08,Caja,False
+C00270,94.269.813-5,Pamela Silva López,1999-09-05,  Quillón ,2024-05-29,Caja,False
+C00271,93.510.548-K,Rosa Aguilera Díaz,1994-09-07,Quillón,2021-01-19,Caja,True
+C00272,92989121-K,Ximena Yáñez Flores,1985-05-02,Coihueco,2022-10-02,Caja,True
+C00273,94508842-7,Ximena Rojas Vásquez,1993-01-16,San Carlos,2022-12-13,Sitio web,True
+C00274,95371059-5,Juan Sepúlveda Fernández,1994-09-03,Coihueco,2023-09-17,Caja,True
+C00275,96068999-2,Matías Álvarez Torres,1975-10-04,Quillón,2024-05-08,Caja,False
+C00276,99938347-5,Sergio Sepúlveda Vidal,2000-09-24,Coihueco,2022-05-11,Caja,True
+C00277,946265543,Héctor Silva Sepúlveda,1995-05-25,Bulnes,2024-02-14,Caja,True
+C00278,98707945-2,Daniela Martínez Martínez,1991-02-17,Chillán,2021-11-03,Caja,True
+C00279,99.169.084-0,Diego Silva Vásquez,1999-08-23,Quirihue,2021-06-12,Sitio web,False
+C00280,95774981-K,Úrsula Salazar Flores,2001-05-27,Chillán,2020-06-29,Sitio web,True
+C00281,976951875,Claudia Yáñez Herrera,1949-03-18,Bulnes,2024-05-21,Sitio web,True
+C00282,92415184-6,Benjamín Gutiérrez Fernández,1996-09-26,Yungay,2022-09-21,Caja,False
+C00283,99292914-6,Sergio Araya Cárdenas,1961-09-12,Chillán,2022-12-12,Caja,False
+C00284,99999563-2,Natalia Reyes González,1972-01-27,Quillón,2021-03-16,Caja,True
+C00285,99189695-3,Benjamín Reyes Tapia,1969-08-06,San Carlos,2021-11-09,Sitio web,True
+C00286,987268301,Cristian Álvarez López,1997-05-19,Quillon,2024-02-02,Sitio web,False
+C00287,91.602.912-8,Sergio Navarro Fernández,1996-09-18,Bulnes,2020-06-07,Caja,True
+C00288,93522803-4,Ana Figueroa Campos,1961-01-11,San Nicolás,2021-02-22,Caja,False
+C00289,93267179-4,Rosa Contreras Vidal,2004-01-19,Pinto,2022-03-20,Caja,True
+C00290,96355806-6,Ana López Figueroa,1992-05-10,,2020-08-18,App móvil,True
+C00291,97240804-2,María Reyes Fuentes,1944-01-31,Coihueco,2020-09-29,Caja,True
+C00292,934778790,Valentina González Vergara,1972-04-01,San Fabián,2021-04-10,Caja,False
+C00293,93938733-1,Sandra Gutiérrez Rodríguez,1993-01-15,Pinto,2020-07-15,Caja,False
+C00294,94052696-5,José Navarro Carrasco,1985-08-20,  Chillán Viejo ,2021-07-28,Caja,False
+C00295,96371375-4,Rosa Hernández Lagos,1948-03-30,,2022-12-13,Caja,True
+C00296,98.036.762-2,Rosa Riquelme Cárdenas,1970-06-01,yungay,2023-08-14,Caja,True
+C00297,90.445.107-K,Patricia Araya Bravo,1993-06-15,San Fabián,2020-09-23,Campaña en local,True
+C00298,911932687,Valentina Campos Rodríguez,1962-04-23,Chillán,2024-04-25,Campaña en local,True
+C00299,93184991-3,Úrsula Pérez Fernández,1993-01-24,Quirihue,2024-04-08,,True
+C00300,99202416K,Paola Guzmán Fernández,1972-08-11,,2022-09-30,Caja,False
+C00301,906828340,Constanza Reyes Poblete,2002-11-29,San Carlos,2021-06-12,Caja,True
+C00302,91.294.333-K,Pedro Figueroa Soto,1983-06-15,Quillón,2022-01-30,App móvil,True
+C00303,99672526-k,Tomás Vergara Yáñez,1938-07-31,Bulnes,2023-01-20,Campaña en local,True
+C00304,97206158-1,Valentina Fernández Espinoza,1969-07-19,Quirihue,2023-12-18,Campaña en local,False
+C00305,93861339-7,Manuel Tapia Vera,1985-03-28,El Carmen,2021-01-25,Sitio web,True
+C00306,96.910.131-9,Álvaro Morales Torres,2003-07-27,  Coihueco ,2022-06-03,Caja,True
+C00307,94.772.998-5,Manuel Navarro Araya,1941-04-22,Chillan,2021-06-02,,True
+C00308,90.034.268-3,Patricia Gutiérrez Ramírez,1986-02-19,Chillán,2023-05-11,Caja,True
+C00309,956719755,Nicolás Castro Fuentes,1984-06-22,NINHUE,2022-02-21,Caja,True
+C00310,994979884,Francisco Lagos Díaz,1982-10-06,chillán,2023-08-18,Caja,True
+C00311,95.698.175-1,Valentina Rojas Martínez,2006-05-15,Yungay,2020-08-05,Sitio web,False
+C00312,91557441-6,Constanza Valenzuela Sandoval,1994-07-15,Chillán,2022-08-16,Caja,True
+C00313,99729425-4,Matías Vergara Molina,1978-10-25,San Carlos,2024-03-27,Sitio web,True
+C00314,99630769-7,Marcela Soto Muñoz,1939-06-12,San Carlos,2023-07-03,App móvil,False
+C00315,97025924-4,Karen Herrera Álvarez,1973-01-22,Chillán,2021-07-28,App móvil,True
+C00316,95826901-3,Ricardo López Martínez,1987-05-03,,2022-07-31,Sitio web,True
+C00317,90163165-4,Marcela Navarro Reyes,2002-06-01,CHILLÁN,2023-09-10,Caja,False
+C00318,980246388,Pamela Aguilera Salazar,1951-11-06,Bulnes,2021-07-20,App móvil,True
+C00319,97.011.112-3,Antonia Carrasco Martínez,1992-09-08,Pinto,2022-09-19,Sitio web,False
+C00320,932455021,Pedro Reyes Martínez,1973-10-31,,2020-09-11,Campaña en local,True
+C00321,93111035-7,Tomás Navarro Ramírez,1900-01-01,Coihueco,2023-08-07,Caja,False
+C00322,97645465-0,Daniela Gutiérrez Aguilera,1972-02-24,San Carlos,2021-03-03,,False
+C00323,92538523-9,Sebastián Vergara Martínez,2000-12-24,Bulnes,2022-10-05,Caja,True
+C00324,93090735-9,Francisco Poblete Vera,1979-05-23,quillón,2024-04-20,Caja,False
+C00325,96452638-9,Natalia Fernández Rodríguez,1991-05-15,Coihueco,2024-01-01,Campaña en local,True
+C00326,97177884-9,Jorge Gutiérrez Aguilera,1982-03-27,QUILLÓN,2023-05-24,Caja,True
+C00327,90734120-8,Ricardo Álvarez Fernández,1945-05-24,Quillón,2023-09-26,Caja,True
+C00328,92368999-0,Mauricio Poblete Muñoz,2002-03-03,Chillan,2022-11-06,,True
+C00329,99.185.698-6,Camila Figueroa Pizarro,2007-06-01,Chillan,2021-12-17,Caja,True
+C00330,927599163,Sergio Yáñez Bravo,1972-11-19,Chillán Viejo,2021-10-15,App móvil,False
+C00331,94.468.957-5,Manuel Herrera Figueroa,2001-12-26,Bulnes,2021-12-29,Caja,True
+C00332,93617789-1,Manuel Gutiérrez Soto,1949-04-09,Chillán,2020-12-05,Caja,True
+C00333,95.707.719-6,Daniela Campos Valenzuela,1995-04-13,San Ignacio,2022-11-09,Caja,False
+C00334,94026461-8,Paola Soto Morales,1956-11-17,Chillán,2021-02-24,Caja,True
+C00335,93.543.459-9,Joaquín Contreras Rojas,1996-10-06,Chillán,2022-10-23,Campaña en local,False
+C00336,962079857,Matías Reyes Silva,2005-05-26,RÁNQUIL,2022-07-30,,False
+C00337,93563924-7,Ana Sandoval Salazar,1984-01-27,San Carlos,2023-10-05,App móvil,True
+C00338,99.817.074-5,Claudia Figueroa Martínez,1971-05-30,Coihueco,2023-04-29,Caja,True
+C00339,91.249.877-8,Álvaro Álvarez Cárdenas,2002-04-17,Yungay,2020-12-27,App móvil,True
+C00340,98744646-3,Héctor Silva Díaz,1994-11-01,Chillán Viejo,2022-10-16,Sitio web,True
+C00341,94.835.517-5,Nicolás Hernández Muñoz,1999-01-19,Chillán,2023-05-17,Caja,False
+C00342,97.285.505-7,Isidora Torres Fuentes,1996-12-16,Coihueco,2022-02-10,Sitio web,True
+C00343,97222470-7,Claudia Vera Tapia,1983-04-04,San Nicolás,2024-01-24,Sitio web,True
+C00344,99146478-6,Marcela Rojas Hernández,1979-12-26,Coihueco,2022-11-25,Caja,True
+C00345,993637963,Luis Aguilera Araya,2006-12-28,CHILLÁN,2022-02-28,Caja,False
+C00346,94331683-K,Carmen López Rodríguez,1947-05-10,Pinto,2020-11-24,Caja,False
+C00347,99150686-1,Ricardo Silva Hernández,1988-07-22,Chillán Viejo,2022-04-14,Sitio web,True
+C00348,92281691-3,Valentina González Tapia,1981-10-12,Bulnes,2020-11-11,Caja,True
+C00349,92410095-8,Antonia Rojas Muñoz,1959-05-25,Chillán,2020-07-15,Caja,True
+C00350,90507037-1,Ximena Bravo Contreras,1947-10-22,San Carlos,2023-11-10,Caja,True
+C00351,99495149-1,Óscar Sepúlveda Salazar,1985-02-21,Coihueco,2023-01-07,Campaña en local,True
+C00352,93569643-7,Daniela Ramírez Yáñez,1952-04-08,chillán,2023-06-27,Caja,False
+C00353,92053631K,Claudia González Contreras,1997-07-22,,2022-03-23,Caja,True
+C00354,95582784-8,Constanza Vera López,1940-11-01,Bulnes,2023-05-23,Caja,True
+C00355,94.486.294-3,Paola Lagos Vera,2000-12-13,Coihueco,2021-10-07,Caja,True
+C00356,95543480-3,Verónica Flores Rodríguez,1988-11-28,  Quirihue ,2021-02-07,Caja,True
+C00357,95293836-3,Felipe Sandoval Araya,1978-11-11,Coelemu,2022-05-10,Caja,True
+C00358,93187519-1,Jorge Parra Silva,1994-08-07,Chillán,2020-11-18,App móvil,True
+C00359,96325798-8,Paola Vergara Yáñez,1969-08-02,Chillán,2021-03-29,Caja,True
+C00360,92.854.025-1,Benjamín Parra Sandoval,1970-10-12,Bulnes,2020-11-20,Caja,True
+C00361,98.269.810-3,Sandra Pizarro Vidal,1994-12-28,Chillan Viejo,2024-03-29,App móvil,True
+C00362,91186128-3,Jorge Vásquez Flores,1979-01-02,Coelemu,2023-02-22,Caja,False
+C00363,90114303-k,Valentina González Fernández,1970-05-11,  Bulnes ,2024-06-01,Caja,False
+C00364,91361295-7,Joaquín Álvarez Ramírez,1974-01-28,Chillán Viejo,2023-03-13,Caja,True
+C00365,98.424.499-1,Ximena Rojas Vásquez,1991-03-02,Chillán,2021-02-12,Caja,True
+C00366,98439162-5,Camila Araya Guzmán,1958-12-29,Coihueco,2024-02-16,Caja,True
+C00367,96920041-4,Diego Vergara Hernández,1977-06-16,,2022-04-19,App móvil,False
+C00368,90312477-6,Sergio Contreras Tapia,1980-03-07,Chillán,2022-07-28,Caja,True
+C00369,94306366-4,Rosa Muñoz Rodríguez,1975-04-01,San Fabián,2021-10-17,Caja,True
+C00370,94978031-7,Sandra Silva Campos,1955-02-07,Chillán,2023-07-08,Sitio web,True
+C00371,934178599,Fernanda Reyes Morales,1994-06-16,  San Fabián ,2021-05-21,Campaña en local,False
+C00372,90.373.008-0,Rodrigo Castillo Molina,1979-03-14,Chillán,2023-08-23,Caja,True
+C00373,90.363.762-5,Diego Aguilera Sandoval,1984-05-11,  Chillán ,2021-05-22,App móvil,False
+C00374,90.471.667-7,Gabriela Flores Flores,1957-09-28,San Carlos,2023-01-23,Caja,True
+C00375,91126490-0,Verónica Parra Contreras,1981-07-09,Chillán,2021-04-15,App móvil,True
+C00376,98.908.259-0,Verónica Rodríguez Navarro,1981-03-20,Chillán Viejo,2023-01-20,Caja,True
+C00377,96.191.569-4,Sebastián Aguilera Vidal,1992-02-25,Quillón,2021-02-01,Caja,False
+C00378,94691050-3,Patricia Castillo Torres,1957-01-25,Cobquecura,2022-05-09,Sitio web,False
+C00379,99697785-4,Camila Espinoza Lagos,1947-04-05,Quillón,2023-05-20,Caja,True
+C00380,99790205-K,Verónica Pérez Navarro,1945-11-06,Quirihue,2024-05-28,Sitio web,True
+C00381,91.165.944-1,Patricia Martínez Sandoval,1956-06-26,Chillán,2022-12-09,Caja,False
+C00382,960464036,Juan Contreras Reyes,1984-07-11,San Carlos,2022-08-14,App móvil,False
+C00383,91.700.995-3,Karen Muñoz Rodríguez,1944-04-24,  Chillán Viejo ,2024-04-26,Caja,True
+C00384,93.358.592-1,Felipe Silva Araya,1996-04-19,Cobquecura,2021-07-10,Caja,True
+C00385,91.036.035-3,Lorena Fernández Gutiérrez,1976-08-08,Chillán,2023-09-27,App móvil,False
+C00386,96782802-5,Sebastián Díaz Araya,1977-03-09,Pemuco,2022-10-30,Campaña en local,True
+C00387,94.123.526-3,Sandra Sepúlveda Vidal,2007-03-11,,2021-08-26,Caja,False
+C00388,94124913-2,Ana Torres González,1973-09-10,Chillán,2022-10-14,App móvil,True
+C00389,98.275.027-K,Úrsula Pérez Herrera,1975-11-19,San Carlos,2021-10-07,App móvil,False
+C00390,957800254,Daniela Herrera Morales,1955-12-28,Quillón,2020-12-27,Sitio web,True
+C00391,97.059.318-7,Jorge Torres Morales,1971-07-22,Yungay,2022-10-06,Caja,False
+C00392,92135763-K,Úrsula Torres Navarro,1956-05-06,Chillán Viejo,2023-06-10,Caja,False
+C00393,970869719,José Castillo Araya,1994-07-22,Chillán,2021-12-15,Caja,True
+C00394,94246609-9,Natalia Araya Morales,1992-07-10,Yungay,2020-11-14,Caja,False
+C00395,90.584.569-1,Constanza Pizarro Hernández,1983-01-22,San Ignacio,2023-10-27,Caja,True
+C00396,99.588.696-0,Pamela Parra Figueroa,1999-10-16,,2023-07-26,App móvil,True
+C00397,94914879-3,Diego Vergara Salazar,1991-07-17,Coihueco,2022-07-14,Sitio web,True
+C00398,96053064-0,Pedro Rodríguez Ramírez,1972-10-31,Chillán,2023-07-05,Caja,True
+C00399,97814035-1,Álvaro Figueroa Parra,1985-03-07,Chillán,2023-03-20,Caja,False
+C00400,90.531.636-2,Ricardo Bravo Carrasco,1979-12-29,Pinto,2020-11-07,Caja,False
+C00401,91372272-8,Luis Fuentes Vera,1983-01-09,chillán,2023-04-05,Campaña en local,True
+C00402,957826121,Ximena Campos Castillo,1988-04-15,Chillán,2022-12-24,Caja,True
+C00403,96193954-2,Natalia Figueroa Rodríguez,1986-01-09,San Carlos,2021-09-13,Caja,True
+C00404,95379656-2,Karen Contreras Hernández,1990-05-24,San Ignacio,2024-05-30,,False
+C00405,91458453-1,Diego Pérez Sepúlveda,1973-07-18,Quillón,2023-02-14,App móvil,True
+C00406,99606236-8,Héctor Riquelme Campos,1974-10-04,San Fabián,2024-02-26,,True
+C00407,95603191-5,Mauricio Carrasco Aguilera,1983-10-11,Chillán,2024-05-11,Campaña en local,True
+C00408,93295817-1,Felipe Martínez Morales,1982-12-23,Quillón,2024-01-17,Caja,False
+C00409,956051304,Sandra Rodríguez Soto,1984-04-16,,2021-06-25,Caja,True
+C00410,94926412-2,Juan Castillo Flores,1977-02-03,Chillán,2023-12-14,Caja,False
+C00411,92.735.647-3,Ximena Espinoza González,1951-07-10,chillán,2024-04-08,Sitio web,False
+C00412,909262690,Álvaro Castro Vergara,1976-12-31,San Nicolás,2023-09-28,Caja,True
+C00413,95.500.949-5,Verónica Díaz Vergara,1982-03-17,San Carlos,2023-02-06,Caja,True
+C00414,95.396.443-0,Valentina Díaz Vidal,1989-03-04,Pinto,2021-01-06,Caja,False
+C00415,94.277.524-5,Javiera Flores Araya,1955-01-01,El Carmen,2022-07-05,Sitio web,False
+C00416,93041207-4,Fernanda Hernández Sandoval,1999-07-18,Cobquecura,2021-09-13,App móvil,True
+C00417,99.395.165-K,Francisco Muñoz Martínez,1943-02-10,San Carlos,2022-04-10,Caja,False
+C00418,99826375-1,Francisco Poblete Fuentes,1979-03-08,Yungay,2024-02-27,Caja,True
+C00419,99967130-6,Luis Valenzuela Espinoza,1986-12-01,Coihueco,2024-02-08,Caja,True
+C00420,95727821-3,Nicolás Sandoval Tapia,1952-10-12,Coihueco,2023-05-04,Caja,False
+C00421,91144920K,Natalia Contreras Bravo,1993-04-10,Ninhue,2021-07-30,Sitio web,True
+C00422,96364104-4,Ximena Parra Valenzuela,1946-07-24,San Carlos,2021-09-26,App móvil,True
+C00423,95.323.045-3,Karen Álvarez Rojas,1980-03-15,chillán,2023-08-31,Caja,False
+C00424,96469378-1,Ricardo Ramírez Vergara,1963-03-02,Chillán,2020-11-03,Caja,True
+C00425,97477366-K,Pamela Hernández Torres,2004-08-19,Yungay,2024-01-02,App móvil,False
+C00426,99.092.707-3,Joaquín Rodríguez López,1985-07-19,,2021-02-23,App móvil,False
+C00427,99432649-K,Antonia Vergara Cárdenas,1946-07-07,,2023-07-13,App móvil,True
+C00428,90713313-3,Natalia Parra Hernández,1998-02-22,  Chillán ,2024-01-03,Caja,True
+C00429,931200208,Jorge Fuentes Parra,1992-10-05,  Yungay ,2022-04-17,Caja,False
+C00430,90.237.237-7,Diego Vásquez Reyes,1982-10-01,Chillan,2022-07-03,Sitio web,False
+C00431,96520997-2,Rodrigo Fuentes Álvarez,1988-06-24,Chillán Viejo,2021-05-16,Sitio web,False
+C00432,97270560-8,Óscar Fernández Pizarro,1993-08-05,Chillán,2023-08-04,App móvil,True
+C00433,90.006.451-9,Carmen Díaz Cárdenas,1961-09-24,Chillán,2022-11-11,Sitio web,False
+C00434,94479523-5,Claudia Silva Contreras,1985-11-23,Chillán Viejo,2022-01-08,Caja,True
+C00435,94262249-K,Héctor Navarro Guzmán,2001-05-18,Chillán,2022-04-01,Sitio web,True
+C00436,99887876-4,María Pizarro Lagos,1997-02-11,Chillán Viejo,2021-01-20,Caja,False
+C00437,95348549-4,Ricardo Muñoz Pérez,1995-06-09,Bulnes,2024-02-28,Sitio web,True
+C00438,91841123-2,Pamela Castillo Sepúlveda,1969-12-30,San Carlos,2021-10-18,App móvil,False
+C00439,93920815-1,Jorge Figueroa Díaz,1996-04-14,Chillán,2022-09-05,Sitio web,False
+C00440,912987442,Sebastián Silva Campos,1978-01-26,Ñiquén,2020-11-14,Caja,True
+C00441,97912480-5,Úrsula Silva Castillo,1986-11-03,,2024-03-14,Caja,True
+C00442,95059868-9,Juan Molina Fuentes,1958-07-28,  Pinto ,2024-03-12,Caja,True
+C00443,988836419,Rodrigo Lagos Lagos,1972-12-18,El Carmen,2023-12-11,App móvil,True
+C00444,93789841-K,Javiera Cárdenas Fuentes,1957-03-12,  Chillán ,2022-10-02,,True
+C00445,93.507.590-4,Verónica Pérez Herrera,1987-01-14,Coihueco,2023-04-30,Caja,True
+C00446,95.494.502-2,Pedro Poblete Reyes,2003-11-14,San Carlos,2020-11-24,Caja,False
+C00447,96196330-3,José Parra Torres,1999-01-12,Pinto,2022-02-28,Caja,True
+C00448,92473971-1,Nicolás Flores Lagos,1993-09-01,Chillán,2024-02-20,Caja,True
+C00449,99.115.403-5,Lorena Guzmán Rodríguez,1962-01-27,Chillán,2021-01-16,Caja,False
+C00450,94892802-7,Felipe Navarro Sepúlveda,1979-11-06,  Chillán Viejo ,2024-02-19,Caja,False
+C00451,915705995,Camila Sandoval Campos,1994-10-28,Chillán Viejo,2024-04-30,Caja,True
+C00452,94.825.453-0,Ricardo López Yáñez,2006-06-17,Chillán Viejo,2023-08-09,App móvil,True
+C00453,94.107.317-4,Matías Díaz Vera,1992-12-17,YUNGAY,2022-04-22,Campaña en local,False
+C00454,98.301.418-6,Antonia Herrera Morales,1936-10-01,San Carlos,2023-05-25,Caja,True
+C00455,90.702.070-3,Marcela Carrasco Aguilera,1981-02-11,San Carlos,2023-01-09,Caja,True
+C00456,92.174.599-0,Ximena Bravo Hernández,1970-08-05,Chillán,2020-12-13,,False
+C00457,94927454-3,Daniela Lagos Silva,1970-07-08,Coihueco,2021-11-23,Caja,False
+C00458,99.212.244-7,Felipe González González,1958-01-14,Chillán Viejo,2021-04-28,Caja,False
+C00459,93.097.765-9,Carmen Aguilera González,1995-03-08,Chillán Viejo,2022-09-23,Caja,True
+C00460,99529162-2,José Herrera González,1998-06-23,Coihueco,2021-07-29,Caja,False
+C00461,97.875.447-3,Paola Bravo Espinoza,1976-03-08,Pinto,2023-10-03,Caja,True
+C00462,99.674.336-5,María Gutiérrez Martínez,1998-04-20,Chillán Viejo,2024-05-24,Sitio web,True
+C00463,99.516.695-K,José Morales López,1991-06-05,Pinto,2021-03-19,App móvil,True
+C00464,91157081-5,Patricia Riquelme Poblete,1980-08-01,SAN CARLOS,2024-04-24,App móvil,True
+C00465,91159906-6,Antonia Molina Díaz,1959-11-05,Chillán Viejo,2021-08-24,App móvil,False
+C00466,93594506-2,Lorena Vásquez Parra,1972-05-17,Coihueco,2022-04-13,Caja,True
+C00467,90090411-8,Camila Gutiérrez Rodríguez,1937-11-22,Chillán,2022-03-16,Campaña en local,False
+C00468,94732700-3,Claudia Contreras Bravo,2003-11-20,Chillán,2022-09-11,Caja,True
+C00469,99507439-7,Carmen Flores Martínez,1998-12-14,Chillán,2020-08-23,App móvil,False
+C00470,972360198,Camila Tapia Sandoval,1944-02-22,Pinto,2021-08-08,Caja,True
+C00471,95204544-K,José Campos Contreras,2001-09-12,San Ignacio,2021-11-04,Caja,False
+C00472,951741892,Ana Flores López,1994-12-25,Bulnes,2022-07-16,Caja,True
+C00473,93064477-3,Daniela Fernández Muñoz,1992-10-14,Bulnes,2020-07-04,Sitio web,True
+C00474,99098681-9,Jorge Álvarez Ramírez,1972-05-16,Quillon,2020-09-01,Caja,False
+C00475,90022509-1,Nicolás Silva Castro,1994-02-26,Chillán,2021-05-06,Caja,True
+C00476,97815990-7,Rodrigo Valenzuela Figueroa,1999-12-05,,2021-07-18,Caja,False
+C00477,95693188-6,Pedro Molina Sandoval,1992-08-05,Chillán,2024-02-27,Sitio web,True
+C00478,92165901-6,Tomás Carrasco Herrera,2007-01-22,San Carlos,2022-09-29,Sitio web,True
+C00479,90.767.824-5,Verónica Tapia Valenzuela,1995-02-05,San Carlos,2022-05-21,App móvil,False
+C00480,92565735-2,Felipe Campos Castillo,1991-03-12,Coelemu,2022-07-23,App móvil,True
+C00481,90.407.682-1,Catalina Fernández Aguilera,2004-06-04,San Carlos,2022-08-21,Caja,True
+C00482,94115932K,Constanza Rojas Lagos,1988-12-12,Chillán,2020-09-21,Campaña en local,True
+C00483,99.079.479-0,Pedro Morales Espinoza,2001-02-04,Bulnes,2020-06-02,App móvil,False
+C00484,90.499.715-3,Úrsula Fuentes Muñoz,1982-10-28,Chillán Viejo,2022-11-05,Caja,False
+C00485,92.374.989-6,Manuel Guzmán Rodríguez,1949-07-14,Chillán,2023-04-06,Caja,True
+C00486,94724167-2,Patricia Molina Soto,1995-09-29,San Carlos,2023-01-27,Caja,False
+C00487,99.075.027-0,Gabriela Lagos Sepúlveda,1987-02-16,Chillán Viejo,2024-03-15,App móvil,True
+C00488,994316613,Francisco Vidal Fuentes,1993-06-04,San Carlos,2020-06-09,Sitio web,False
+C00489,97915403-8,Úrsula Espinoza Carrasco,1950-05-20,SAN CARLOS,2023-09-06,Sitio web,False
+C00490,94968684-1,María Espinoza Contreras,1984-01-19,Chillán,2021-05-25,Campaña en local,False
+C00491,966883235,Carmen Álvarez Contreras,1976-08-28,El Carmen,2024-01-02,Caja,False
+C00492,93.752.985-6,Benjamín Sepúlveda Ramírez,1994-08-12,  Chillán Viejo ,2021-06-01,Caja,True
+C00493,97214253-0,Lorena Tapia Aguilera,1998-08-23,Ránquil,2023-12-04,Sitio web,True
+C00494,94354562-6,Valentina Rodríguez Hernández,1994-07-23,San Carlos,2023-06-29,Campaña en local,False
+C00495,97.563.044-7,Verónica Castillo Rojas,1983-06-02,Ninhue,2021-08-08,Caja,False
+C00496,95936484-2,Javiera Muñoz Araya,1996-12-24,San Carlos,2022-08-05,App móvil,False
+C00497,98.813.362-0,Joaquín Pérez Muñoz,1997-10-14,Ránquil,2021-03-07,Caja,False
+C00498,95.521.023-9,Felipe Contreras Poblete,1939-04-07,BULNES,2022-02-09,App móvil,True
+C00499,98.766.006-6,Manuel Espinoza Flores,1958-05-11,Chillán Viejo,2020-06-28,Caja,False
+C00500,97954046-9,Marcela Salazar Campos,1977-12-26,San Nicolás,2024-02-22,Caja,True
+C00501,95967119-2,Javiera Salazar Torres,1994-11-17,Chillán,2021-10-25,Caja,True
+C00502,98361414-0,Tomás Herrera Navarro,1980-06-06,ÑIQUÉN,2021-06-30,Caja,True
+C00503,97.102.652-9,Benjamín Vásquez Morales,1983-07-28,Pinto,2021-01-26,Caja,False
+C00504,95902743-9,Antonia Vidal Cárdenas,1994-01-10,Chillán,2021-10-24,Caja,True
+C00505,99796159-5,Héctor Díaz Díaz,1986-04-25,Chillán Viejo,2022-06-17,Caja,True
+C00506,98846354-k,Javiera Molina Fuentes,1959-12-05,chillán,2024-04-10,Caja,True
+C00507,97129164-8,Diego Herrera González,2005-08-23,Yungay,2022-02-27,Caja,False
+C00508,90.432.109-5,Juan Castillo Guzmán,1993-11-20,Chillán Viejo,2022-07-22,Caja,False
+C00509,953303272,José Lagos Contreras,1973-05-31,san ignacio,2023-07-19,Caja,True
+C00510,93043165-6,Luis Lagos Espinoza,1987-03-23,Bulnes,2024-04-10,Caja,True
+C00511,91.626.423-2,Gabriela Torres Riquelme,1999-04-28,Quillon,2021-07-19,Sitio web,False
+C00512,95450682-7,Jorge Pizarro Valenzuela,1969-11-20,San Carlos,2021-09-03,Caja,True
+C00513,99.734.936-9,Rosa Torres Navarro,1988-09-05,Ñiquén,2021-07-12,,True
+C00514,95439572-3,Diego Carrasco Contreras,1994-07-04,Quirihue,2023-09-06,Campaña en local,True
+C00515,98701235-8,Francisco Vidal Sandoval,1945-10-03,pinto,2022-03-15,Caja,True
+C00516,98.834.993-3,Daniela Lagos Vera,1975-09-09,chillán,2023-01-28,App móvil,True
+C00517,96221983-7,Felipe Vergara Bravo,2000-04-21,Bulnes,2024-05-03,App móvil,True
+C00518,93.611.257-9,Camila Castro Rodríguez,1974-12-23,Coihueco,2024-02-27,App móvil,False
+C00519,99.843.334-7,Lorena Vidal Sandoval,1984-02-10,  Coihueco ,2021-01-16,Caja,False
+C00520,95009995-k,Úrsula Rodríguez Parra,1992-09-23,Chillán,2020-10-12,Caja,True
+C00521,94.208.235-5,Nicolás Hernández Torres,1972-01-19,Quirihue,2020-06-09,Caja,True
+C00522,91.608.280-0,Juan Rojas Riquelme,1992-08-12,Chillán,2023-05-16,Caja,False
+C00523,913291697,Valentina Hernández Fernández,1991-10-01,Bulnes,2023-05-27,App móvil,True
+C00524,95293653-0,Marcela Campos Muñoz,2026-12-31,,2022-07-05,Caja,True
+C00525,97251564-7,Benjamín Ramírez Navarro,1969-08-10,Chillán Viejo,2020-10-08,Sitio web,True
+C00526,91.897.602-7,Carmen Castillo Reyes,1992-04-13,Pemuco,2023-05-07,Caja,False
+C00527,90582455-4,Gabriela Torres Pérez,1999-04-05,CHILLÁN,2022-09-12,Caja,False
+C00528,97951319-4,Camila Fernández Guzmán,1999-10-16,  San Ignacio ,2022-03-10,Caja,True
+C00529,98662221-7,Mauricio López Guzmán,1977-07-08,BULNES,2023-10-07,Campaña en local,True
+C00530,96.173.819-9,Javiera Valenzuela Fernández,2004-11-16,Coihueco,2024-05-21,,True
+C00531,94909999-7,Nicolás Cárdenas Reyes,1956-12-02,San Carlos,2024-02-16,Sitio web,True
+C00532,93.267.847-0,Patricia Poblete López,1998-01-16,Pinto,2020-10-17,Caja,True
+C00533,92270060-5,Matías Ramírez Carrasco,1992-09-05,Coihueco,2022-12-26,Caja,True
+C00534,91225111-K,Mauricio Vásquez Araya,1946-07-06,coelemu,2023-07-11,,False
+C00535,96156039-K,Ana Carrasco Vásquez,1986-02-24,Quillón,2022-02-02,App móvil,False
+C00536,92140445-K,Juan Castro Valenzuela,2002-05-16,Coihueco,2021-06-13,Caja,False
+C00537,970103430,Pedro Navarro Tapia,1999-03-10,Chillán,2021-12-18,App móvil,False
+C00538,99988641-8,Patricia Aguilera Espinoza,1984-06-13,Bulnes,2024-05-18,Caja,True
+C00539,93871873-3,Ana Pizarro Ramírez,1994-12-12,,2021-07-29,Caja,False
+C00540,92.830.331-4,Paola Hernández Figueroa,1955-01-02,San Nicolás,2020-10-09,Caja,False
+C00541,95.787.596-3,Claudia Riquelme Sandoval,1958-07-15,Chillán,2023-12-14,Caja,True
+C00542,98.943.294-K,Constanza Martínez Herrera,1979-08-28,Bulnes,2020-07-16,Sitio web,False
+C00543,994042874,Pedro Cárdenas López,1975-12-11,San Nicolás,2021-09-23,Caja,True
+C00544,945464062,Patricia Campos Reyes,1979-06-03,,2023-11-06,Caja,True
+C00545,92217831-3,Verónica Carrasco López,1970-05-06,Coihueco,2021-04-24,App móvil,True
+C00546,96612332-K,Patricia Rojas Navarro,1997-04-08,Chillán Viejo,2023-07-09,Caja,True
+C00547,95543615-6,Fernanda Poblete Morales,1973-08-03,Chillán,2021-09-04,Sitio web,False
+C00548,985553203,Felipe Hernández Aguilera,0001-01-01,Quillón,2021-10-08,Caja,True
+C00549,96861316-2,María Reyes Gutiérrez,1939-05-12,Coihueco,2023-01-05,Caja,True
+C00550,96.360.299-5,Sandra Figueroa Torres,1988-06-17,Chillán,2024-04-24,Caja,True
+C00551,97.330.459-3,Isidora Silva Fuentes,1998-02-11,San Fabián,2023-10-06,Caja,False
+C00552,96.891.806-0,María Herrera Herrera,2002-06-04,Pinto,2022-10-31,Caja,True
+C00553,97.447.642-8,Antonia Valenzuela Carrasco,1957-12-02,CHILLÁN VIEJO,2021-11-10,Sitio web,True
+C00554,91771076-7,Javiera Ramírez Castro,1971-02-09,Chillán,2024-03-15,Caja,True
+C00555,97823760-6,Úrsula Gutiérrez Díaz,1947-04-09,San Carlos,2021-11-18,App móvil,True
+C00556,98.598.801-3,Sebastián Parra Lagos,1961-10-02,Quillón,2023-07-17,,False
+C00557,977553393,Ximena Yáñez Guzmán,2001-10-02,Chillán,2021-02-28,Caja,True
+C00558,93274473-2,Verónica Vidal Vergara,1959-05-28,Chillán,2023-08-08,Caja,False
+C00559,93304849-7,Antonia Muñoz Vergara,1994-09-13,,2021-09-10,Caja,False
+C00560,97043494-1,Úrsula Carrasco Sepúlveda,2001-12-30,  El Carmen ,2023-05-26,Sitio web,True
+C00561,98444723K,Rosa Lagos Rojas,1982-09-15,Chillán Viejo,2023-05-27,App móvil,True
+C00562,96386315-2,Ricardo Reyes Contreras,2000-08-12,Bulnes,2024-04-23,Caja,True
+C00563,96168286-K,Pedro Herrera Molina,1992-06-19,,2021-01-30,Caja,False
+C00564,91634721-9,José Fuentes López,1952-03-28,Chillán,2022-09-19,Caja,True
+C00565,956724546,Camila Ramírez Riquelme,1958-10-02,Chillán,2022-04-16,Sitio web,False
+C00566,93528736-7,Sandra Aguilera Ramírez,1948-11-03,Pinto,2023-07-24,Campaña en local,True
+C00567,96.072.263-9,Antonia Gutiérrez Gutiérrez,1995-09-05,Chillán,2022-03-03,Campaña en local,True
+C00568,94.941.574-0,Lorena Rodríguez Valenzuela,1987-09-23,Bulnes,2023-04-24,App móvil,False
+C00569,962943403,Juan Lagos Vera,1976-12-07,Chillán,2022-06-08,Campaña en local,False
+C00570,95.285.164-0,Ana Figueroa Castro,1985-05-03,Chillán,2022-11-26,App móvil,True
+C00571,99397213-4,Lorena Navarro Hernández,1998-11-19,Chillán,2020-08-12,Caja,False
+C00572,97798252-9,Jorge Reyes Ramírez,1952-06-10,Chillán,2021-02-12,Caja,True
+C00573,931220276,Ana Parra Herrera,1974-12-11,Pinto,2021-10-18,App móvil,True
+C00574,971364564,Benjamín Flores Contreras,2006-09-30,Quillón,2022-01-22,Campaña en local,True
+C00575,994080385,Rosa Salazar Salazar,2004-11-24,San Carlos,2023-04-21,Caja,True
+C00576,92872870-6,Cristian Guzmán Castro,2004-11-21,Chillán,2020-11-24,App móvil,True
+C00577,94997424-3,Mauricio Álvarez Guzmán,1978-10-15,Chillán,2021-04-22,Campaña en local,True
+C00578,98.002.148-3,Valentina Vera Castillo,1937-11-04,Ñiquén,2024-01-30,Caja,False
+C00579,997444388,Cristian Bravo Castro,1992-07-16,Bulnes,2023-10-01,Sitio web,True
+C00580,90477854-0,Felipe Contreras Campos,1980-05-10,Chillán,2024-02-15,Sitio web,True
+C00581,99329399-7,Patricia Hernández Bravo,1983-04-29,San Nicolás,2021-12-11,Caja,False
+C00582,99.196.443-6,Gabriela Yáñez Valenzuela,1975-02-28,Quillón,2020-07-06,Sitio web,False
+C00583,98.354.683-8,Cristian Riquelme Yáñez,1972-07-03,Coihueco,2021-02-08,Caja,True
+C00584,97578365-0,Paola Vera Soto,1950-05-02,Bulnes,2024-04-16,Caja,False
+C00585,95477945-9,Constanza Yáñez Martínez,1990-11-09,Pemuco,2023-12-13,Caja,True
+C00586,97027277-1,Paola Ramírez Castillo,2007-03-26,,2022-08-19,Caja,False
+C00587,94176237-9,Fernanda Silva Contreras,1993-08-10,  Quillón ,2021-12-28,App móvil,False
+C00588,99809370-8,Carmen Díaz Rojas,1984-07-27,chillán viejo,2021-10-31,Caja,True
+C00589,98.534.243-1,Isidora Cárdenas Riquelme,1994-11-05,  Coelemu ,2020-06-17,Sitio web,True
+C00590,99186360-5,Antonia Molina Lagos,1978-06-14,quillón,2020-07-19,,False
+C00591,97.101.333-8,Valentina Herrera Rodríguez,1999-08-25,El Carmen,2021-02-04,Caja,False
+C00592,99278501-2,Francisco Silva Reyes,2007-06-24,San Carlos,2022-05-27,App móvil,True
+C00593,99079007-8,Úrsula Fernández Molina,0001-01-01,Chillán,2021-11-09,App móvil,False
+C00594,90.202.576-6,Camila Riquelme Rodríguez,2001-09-23,Chillán Viejo,2021-05-24,Caja,False
+C00595,967626023,Felipe Tapia Fuentes,1996-08-07,  Pinto ,2021-05-04,App móvil,True
+C00596,91109336-7,Carmen Tapia Araya,1943-12-19,San Ignacio,2021-10-23,Caja,False
+C00597,90872918-8,Juan Fernández Aguilera,1970-03-17,,2020-12-27,Sitio web,False
+C00598,99.263.858-3,Héctor Yáñez Pizarro,1998-09-22,  Bulnes ,2021-08-07,Caja,True
+C00599,90.966.849-2,Tomás Vásquez Vidal,1957-05-18,El Carmen,2024-04-12,App móvil,True
+C00600,96041101-3,Jorge Campos Castro,2005-04-20,San Ignacio,2023-05-16,Caja,True
+C00601,99.806.472-4,Benjamín Cárdenas Navarro,1990-06-11,Chillán,2023-03-20,Sitio web,False
+C00602,97460600-3,Paola Rojas Espinoza,1978-12-22,Chillán,2023-10-04,Caja,True
+C00603,94211579-2,Héctor Yáñez Álvarez,1975-08-25,San Carlos,2020-12-11,Caja,False
+C00604,93.232.038-K,Ricardo Yáñez Gutiérrez,1997-09-01,,2022-12-15,Caja,False
+C00605,97445428-9,Ignacio Pérez Díaz,2004-10-01,San Ignacio,2021-12-05,Sitio web,False
+C00606,92610189-7,Álvaro Riquelme Torres,1985-08-04,Trehuaco,2021-08-15,Caja,True
+C00607,909396026,Fernanda Guzmán Hernández,1973-11-19,Portezuelo,2021-11-02,App móvil,True
+C00608,971173343,Rosa Espinoza Vera,1972-09-19,San Carlos,2024-02-04,Caja,True
+C00609,93965453-4,Matías Poblete Pérez,1982-07-23,CHILLÁN,2024-05-22,App móvil,True
+C00610,91986110K,Constanza Castro Herrera,1950-06-25,Chillán,2020-11-17,App móvil,True
+C00611,90200713-k,Sergio Guzmán Salazar,2006-12-24,Coihueco,2021-05-31,Sitio web,False
+C00612,92231651-1,Claudia Poblete Martínez,2006-01-15,Chillán,2021-05-13,Caja,True
+C00613,984789734,Ana Gutiérrez Álvarez,1975-06-23,Chillán,2023-05-06,Caja,True
+C00614,98657640-1,Héctor Álvarez Parra,1983-11-18,Chillán,2022-05-01,Caja,False
+C00615,97.759.189-9,Rosa Salazar López,1997-09-17,  Coihueco ,2022-12-23,Caja,True
+C00616,98589235-0,Ignacio Vergara Reyes,1996-06-05,Chillán,2023-04-09,Caja,False
+C00617,957369820,Rodrigo Martínez Pizarro,1981-12-07,Chillán,2021-03-23,Caja,True
+C00618,900561156,Ana Navarro Muñoz,1978-07-22,SAN IGNACIO,2022-04-30,Caja,True
+C00619,96833000-4,Valentina Soto Rojas,1973-08-08,Coihueco,2023-02-02,Caja,True
+C00620,97027166-K,Catalina Rodríguez Vergara,1936-11-09,Chillán,2020-12-18,Caja,False
+C00621,95.232.340-7,Carmen Guzmán Cárdenas,1975-05-21,Portezuelo,2022-08-04,Caja,True
+C00622,98.390.911-6,Camila Navarro Soto,2001-11-06,San Ignacio,2020-12-26,Caja,True
+C00623,95420181-3,Sergio Aguilera Morales,1978-10-14,  Chillán ,2023-04-12,Caja,True
+C00624,91638775-K,Benjamín Reyes Rodríguez,1951-01-14,chillán,2023-09-18,Campaña en local,False
+C00625,91.428.373-6,Fernanda Cárdenas Sepúlveda,1982-01-06,pinto,2023-02-09,Caja,True
+C00626,90.244.364-9,Fernanda Muñoz Valenzuela,1944-10-24,Yungay,2022-02-20,App móvil,True
+C00627,91621426-K,Verónica Hernández Pérez,1996-01-21,Quillón,2021-10-12,Caja,False
+C00628,99.328.070-4,Jorge Martínez Martínez,2001-09-19,Coihueco,2023-11-02,Caja,True
+C00629,90456018-9,Úrsula Morales Fernández,1986-09-12,chillán,2023-11-14,App móvil,True
+C00630,99855534-5,Fernanda Carrasco Rojas,1997-01-11,Bulnes,2021-02-02,App móvil,True
+C00631,985660034,Manuel Bravo Poblete,1977-03-20,San Carlos,2023-07-01,Caja,True
+C00632,94509513-K,Ignacio Espinoza Muñoz,1981-07-07,Chillán,2022-05-18,Caja,False
+C00633,98624882-K,Fernanda Gutiérrez Campos,1973-09-27,Chillán,2022-08-13,Caja,True
+C00634,979583206,Karen Castillo López,1947-09-20,San Carlos,2021-06-10,App móvil,True
+C00635,904939595,Ricardo Sepúlveda Poblete,2004-12-27,CHILLÁN,2021-12-04,Caja,True
+C00636,940448522,Ximena Sandoval Rodríguez,1972-08-10,Bulnes,2021-08-11,App móvil,False
+C00637,92.785.318-3,Francisco Díaz Rojas,1948-01-09,,2020-06-15,Sitio web,False
+C00638,98199656-9,Pamela Castro Castro,1988-06-23,chillán,2022-05-24,Caja,True
+C00639,90965950-7,Jorge Silva Valenzuela,1991-03-07,San Carlos,2020-12-11,Caja,False
+C00640,983710581,Tomás Sepúlveda Tapia,1984-06-12,Yungay,2023-06-15,Sitio web,False
+C00641,98.413.067-8,Constanza Fernández Flores,1958-01-13,Coihueco,2022-06-13,,False
+C00642,97517294-5,Úrsula Rodríguez Bravo,1947-06-15,Coihueco,2021-10-24,,False
+C00643,94.026.409-K,Pedro Hernández Ramírez,1998-08-27,Bulnes,2022-03-01,Caja,False
+C00644,93.171.591-7,Claudia Sandoval Vidal,2026-12-31,Chillán,2023-01-04,App móvil,True
+C00645,97.357.931-2,Constanza Gutiérrez Rodríguez,1985-08-30,Chillán,2023-12-30,Caja,True
+C00646,97546865-8,José Reyes Yáñez,1979-03-17,Portezuelo,2022-02-22,App móvil,True
+C00647,914901014,Verónica Guzmán Martínez,1994-02-14,cobquecura,2021-04-14,Caja,True
+C00648,93.799.958-5,Javiera Soto Álvarez,1982-09-14,Bulnes,2022-02-12,Sitio web,True
+C00649,92642155-7,Sebastián Morales Sandoval,1997-02-15,,2021-06-12,App móvil,True
+C00650,94476920-K,Fernanda Lagos Muñoz,1978-12-28,El Carmen,2022-09-30,Caja,True
+C00651,94.560.828-5,Isidora Lagos Parra,1977-04-29,Ñiquén,2022-03-07,Caja,False
+C00652,922222401,Fernanda Lagos Torres,1982-11-08,Pemuco,2020-11-20,Caja,False
+C00653,972373028,Pedro Torres Pérez,1994-02-24,Chillán,2021-07-02,App móvil,True
+C00654,95170980-8,Tomás Vidal Pérez,2002-09-16,Chillán,2023-01-05,App móvil,True
+C00655,97.716.512-1,Javiera Aguilera Silva,1998-11-18,  Coihueco ,2023-03-02,Caja,True
+C00656,96.918.783-3,Óscar Aguilera Sepúlveda,2004-11-01,Quillón,2021-03-31,Caja,True
+C00657,93597772K,Manuel Fuentes Gutiérrez,1937-12-31,Chillán,2023-03-13,Sitio web,False
+C00658,937967748,Pedro Tapia Castillo,1980-08-25,Chillán,2022-10-02,App móvil,True
+C00659,91.838.558-4,Catalina Díaz Campos,1982-12-14,Chillán,2021-03-05,Caja,True
+C00660,93273614-4,Karen Figueroa Sandoval,1943-08-11,,2020-08-03,Caja,True
+C00661,91437461-8,Juan Sepúlveda Guzmán,1972-10-13,chillán,2022-03-08,Campaña en local,True
+C00662,95724376-2,Javiera Morales Vidal,2007-03-25,San Ignacio,2022-08-01,Sitio web,False
+C00663,94410990-0,Ana Vásquez Figueroa,1944-07-30,chillán,2022-03-10,Caja,True
+C00664,92599896-6,Óscar Salazar Castillo,1972-09-30,  Yungay ,2021-10-09,App móvil,True
+C00665,916281102,Pamela Sandoval Valenzuela,1973-01-24,QUILLÓN,2024-01-17,Caja,False
+C00666,99305980-3,Héctor Bravo Martínez,1957-04-12,Quillón,2021-05-18,Caja,True
+C00667,90718100-6,Héctor Ramírez Bravo,1984-06-15,  San Ignacio ,2020-06-07,App móvil,True
+C00668,98848213-7,Joaquín Álvarez Álvarez,2001-01-22,chillán,2023-11-18,Caja,True
+C00669,960528425,Pamela Silva Fuentes,1986-04-05,chillán,2020-09-30,Caja,True
+C00670,93866395-5,Valentina Campos Reyes,1987-04-24,Chillán,2022-09-24,Caja,True
+C00671,92.404.662-7,Verónica Valenzuela Parra,2003-01-18,Coihueco,2021-01-26,App móvil,True
+C00672,96741918-4,Carmen Guzmán Pizarro,1951-06-23,Pinto,2023-09-11,,False
+C00673,97426780-2,Óscar Pérez Salazar,1936-12-19,  San Nicolás ,2020-12-30,Caja,True
+C00674,96607997-5,Joaquín Reyes Contreras,1997-12-16,San Nicolás,2020-08-01,Caja,True
+C00675,96652229-1,Paola Araya Salazar,2001-12-06,El Carmen,2020-09-11,Sitio web,True
+C00676,92734094-1,Rodrigo Vidal Yáñez,1987-02-10,,2023-09-28,Caja,False
+C00677,95086169-K,Rosa Rojas Pérez,1947-03-03,Chillán,2023-03-25,Caja,False
+C00678,90.968.012-3,Óscar Lagos Álvarez,1992-08-23,San Carlos,2020-09-17,Sitio web,True
+C00679,936877079,Jorge Vásquez Castillo,1995-06-23,Pinto,2023-09-23,App móvil,True
+C00680,93068255-1,Joaquín Sandoval Vidal,1994-09-11,Chillán,2021-02-09,Sitio web,True
+C00681,99.614.809-2,Juan Sepúlveda Vergara,1977-05-02,San Fabián,2024-01-25,App móvil,False
+C00682,97493666-6,Verónica Espinoza Díaz,2007-01-09,Chillán,2022-08-28,Caja,False
+C00683,97382394-9,Sandra Parra Tapia,1984-11-13,Quillón,2020-07-04,App móvil,True
+C00684,91110277-3,Héctor Cárdenas Guzmán,1981-11-04,Chillán Viejo,2021-04-26,Caja,False
+C00685,979321031,Fernanda Vásquez Pizarro,1975-02-24,,2020-09-19,Caja,True
+C00686,95235930-4,Javiera Rojas Pizarro,2001-04-25,San Fabián,2024-01-27,Caja,True
+C00687,91440304-9,Camila Pérez Figueroa,1991-03-26,Portezuelo,2021-08-26,Caja,True
+C00688,907100472,Pamela González Lagos,1900-01-01,,2020-10-16,Caja,False
+C00689,95026542-6,Manuel Castillo Pizarro,1997-01-24,Chillán,2021-09-01,Caja,True
+C00690,903546794,Rodrigo Araya Yáñez,1986-01-21,San Carlos,2021-05-20,Caja,True
+C00691,95311671-5,José Espinoza Parra,1975-12-10,El Carmen,2022-03-05,Sitio web,False
+C00692,95778338-4,Valentina Muñoz Ramírez,1937-11-26,  San Carlos ,2023-09-23,Sitio web,True
+C00693,91.013.250-4,Ximena Araya Reyes,2002-10-14,El Carmen,2020-10-17,App móvil,True
+C00694,98722500-9,Fernanda Carrasco Muñoz,1974-10-17,San Carlos,2023-06-28,,False
+C00695,90502459-0,Pamela Molina Navarro,1945-01-23,Bulnes,2023-05-11,Campaña en local,True
+C00696,99.753.531-6,Marcela Campos Vásquez,1986-08-06,San Nicolás,2023-10-22,Caja,True
+C00697,93.167.353-K,Francisco Tapia Pérez,1998-07-10,coihueco,2021-12-02,Campaña en local,False
+C00698,94528072-7,Ignacio Vergara Poblete,1945-04-01,Quillon,2021-08-13,Caja,False
+C00699,99021902-8,Natalia Valenzuela Hernández,1955-08-07,quillón,2021-12-24,,False
+C00700,97450308-5,Sebastián Martínez Tapia,2000-04-12,El Carmen,2022-08-27,Sitio web,True
+C00701,94666596-7,Antonia Reyes Cárdenas,1999-12-10,San Carlos,2020-08-29,,True
+C00702,93.439.169-1,Ignacio Campos Díaz,1993-01-28,Quillón,2023-12-01,Campaña en local,False
+C00703,98.902.211-3,Álvaro Pérez Valenzuela,1991-02-21,Ñiquén,2020-09-30,Campaña en local,True
+C00704,99888544-2,Rosa Espinoza Figueroa,1978-10-02,Chillán Viejo,2022-01-27,Caja,True
+C00705,93056957-7,Karen López Molina,1983-01-17,Quillón,2023-04-18,App móvil,True
+C00706,90.040.533-2,Tomás Martínez Salazar,1996-10-07,bulnes,2023-08-09,Campaña en local,False
+C00707,96061258-2,Benjamín Molina González,1943-12-29,San Carlos,2021-08-12,Caja,True
+C00708,951938246,Pamela Sepúlveda Yáñez,1971-10-02,Chillán,2022-11-20,Sitio web,False
+C00709,93957926-5,Sebastián Fuentes Figueroa,1981-10-03,Pinto,2022-01-07,Caja,False
+C00710,94220932-0,Sebastián Tapia Herrera,2004-07-06,Pinto,2021-05-18,Caja,False
+C00711,91791356-0,Paola Vidal Navarro,1976-03-07,Quillón,2022-05-26,Caja,True
+C00712,95249002-8,Verónica González Vásquez,1999-04-14,Quillón,2020-11-08,Sitio web,True
+C00713,90.608.524-0,Gabriela Figueroa Castillo,0001-01-01,Chillán,2023-11-06,App móvil,True
+C00714,97636168-7,Ignacio Castro Vera,1949-11-24,Portezuelo,2023-10-31,Caja,True
+C00715,99342035-2,Lorena Torres Herrera,1997-05-08,San Nicolás,2023-11-29,App móvil,False
+C00716,95837913-7,Pamela Ramírez Tapia,1940-10-02,San Fabián,2024-03-23,Caja,True
+C00717,90.762.755-1,Antonia Poblete Vergara,1992-07-11,Pemuco,2022-02-09,Caja,False
+C00718,98474429-3,Juan Riquelme Tapia,2001-08-14,chillán,2021-10-20,Caja,False
+C00719,96193609-8,Manuel Torres Martínez,1995-03-16,San Carlos,2020-06-23,Campaña en local,False
+C00720,91133536-0,Ignacio Martínez Navarro,1994-04-02,Yungay,2022-10-30,Caja,True
+C00721,93.429.724-5,Lorena Flores Pérez,1969-12-22,,2024-05-22,Caja,True
+C00722,99.512.901-9,Sandra Vera Guzmán,1980-11-14,  Chillán ,2020-08-24,Caja,True
+C00723,98823812-0,Juan Bravo Vera,1953-01-19,Chillán,2020-07-27,App móvil,True
+C00724,99.124.731-9,Patricia Pizarro Vásquez,1995-10-26,Quirihue,2024-04-08,App móvil,True
+C00725,94054471-8,Luis Soto Pérez,1995-06-10,Chillán,2020-12-05,Caja,True
+C00726,90653775-3,Isidora Yáñez Cárdenas,1976-02-25,Bulnes,2020-11-21,Caja,False
+C00727,99.563.931-9,Pamela Campos Vásquez,2005-09-27,Chillán,2021-09-23,Caja,False
+C00728,99.232.414-7,Héctor Herrera Vera,2003-08-17,San Nicolás,2024-01-31,Campaña en local,False
+C00729,95397282-4,Jorge Parra Soto,1973-09-16,,2024-04-09,Caja,True
+C00730,96.576.086-5,Diego Poblete Díaz,1989-08-04,  Chillán Viejo ,2023-11-10,Caja,False
+C00731,99914190-0,Benjamín Díaz Parra,2007-03-13,  Chillán Viejo ,2022-11-04,Caja,True
+C00732,96674097-3,Manuel González Guzmán,1988-07-10,San Carlos,2023-09-04,Sitio web,False
+C00733,92831033-7,Nicolás Poblete Flores,1993-04-12,Yungay,2023-05-02,Sitio web,True
+C00734,91.906.608-3,Nicolás Castillo Figueroa,1974-10-28,Chillán,2021-02-18,Sitio web,True
+C00735,97.404.233-9,Jorge Cárdenas Riquelme,1954-08-25,san carlos,2020-08-13,Caja,True
+C00736,99895934-9,Sebastián Yáñez Pérez,1997-03-27,,2021-12-30,Caja,False
+C00737,91398327-0,Francisco Contreras Vera,1996-12-17,Bulnes,2022-01-04,Caja,False
+C00738,96897901-9,Karen Salazar Sepúlveda,1973-02-04,Chillán Viejo,2024-04-17,Campaña en local,True
+C00739,95.878.361-2,Verónica Fernández Aguilera,2006-02-14,bulnes,2020-10-16,Campaña en local,True
+C00740,91.733.376-9,Verónica Hernández Aguilera,1986-06-06,Yungay,2023-06-26,Caja,False
+C00741,96851894-1,Ximena Espinoza Sandoval,1938-07-10,,2020-07-29,Campaña en local,False
+C00742,95949197-6,Cristian Torres Aguilera,1969-08-30,Coihueco,2020-08-05,Caja,True
+C00743,95175573-7,Ricardo Lagos Sandoval,1971-03-02,Chillán Viejo,2021-02-24,App móvil,False
+C00744,92187533-9,Rosa Díaz Vera,1960-02-11,Chillán,2023-05-28,Sitio web,False
+C00745,96.232.404-5,Juan Salazar Bravo,2000-09-22,SAN CARLOS,2023-06-25,Caja,False
+C00746,97339651-K,Rosa Pizarro Salazar,1975-06-06,Pinto,2021-11-18,Caja,True
+C00747,99480952-0,Isidora Aguilera Ramírez,1979-02-12,Chillán,2021-09-20,Caja,True
+C00748,96.837.843-0,Diego Carrasco González,1988-04-13,Chillán,2024-05-18,Caja,True
+C00749,94.527.558-8,Valentina Lagos Vidal,1999-08-22,Chillán Viejo,2021-11-17,App móvil,False
+C00750,97.371.786-3,Diego Flores Aguilera,1961-04-09,Chillán Viejo,2023-05-16,App móvil,True
+C00751,94943861-9,Juan López Bravo,1946-02-12,Chillán,2022-06-24,Sitio web,False
+C00752,98875425-0,Sandra Yáñez Contreras,1981-04-06,,2022-02-14,Campaña en local,True
+C00753,92237083-4,Manuel González González,1987-07-29,San Carlos,2023-10-30,Campaña en local,False
+C00754,94880641-K,Jorge Rojas Espinoza,1989-01-28,Chillán Viejo,2021-01-08,Caja,True
+C00755,923812237,Ricardo Tapia Díaz,1983-08-28,San Carlos,2023-09-02,Caja,False
+C00756,98.388.874-7,Tomás Tapia López,1989-07-26,Chillán,2023-09-01,Sitio web,False
+C00757,91.942.630-6,Tomás Molina Silva,1985-06-10,San Carlos,2020-06-24,Caja,False
+C00758,97067511-6,Karen Bravo Reyes,2000-08-18,Chillán,2023-10-05,Caja,False
+C00759,92738433-7,Gabriela Fuentes Aguilera,1986-06-29,  Chillán ,2020-12-11,Caja,False
+C00760,99065245-7,Fernanda Soto Álvarez,1971-05-01,  Pemuco ,2024-02-21,Sitio web,True
+C00761,93.089.963-1,Ignacio Guzmán Espinoza,1983-06-02,,2024-03-07,Caja,False
+C00762,94828933-4,Ricardo Sandoval Valenzuela,1996-05-09,chillán,2021-05-12,Caja,False
+C00763,96117440-6,Tomás González Sandoval,1977-01-19,Yungay,2021-06-01,Caja,False
+C00764,98.488.197-5,Claudia Parra Pizarro,2004-12-15,Chillán,2023-06-10,App móvil,True
+C00765,941884202,Karen Vergara Vidal,1995-03-19,San Carlos,2020-09-15,Campaña en local,False
+C00766,94.266.858-9,Verónica Reyes Pérez,1993-08-06,RÁNQUIL,2020-11-14,App móvil,True
+C00767,99.014.045-6,Paola Silva Navarro,1978-06-21,  Chillán ,2021-10-12,Campaña en local,True
+C00768,92226313-2,Camila Espinoza Valenzuela,1988-04-02,CHILLÁN VIEJO,2021-08-05,Sitio web,True
+C00769,96765071-4,Paola Sepúlveda Ramírez,1999-12-26,Chillán,2022-11-07,App móvil,False
+C00770,91355839-1,Cristian Figueroa Rodríguez,1988-08-08,  Chillán ,2020-06-12,Caja,True
+C00771,91.883.515-6,Lorena Cárdenas Tapia,1970-02-28,San Carlos,2020-10-05,Caja,True
+C00772,97.571.810-7,Sebastián Araya Araya,1999-12-30,Chillán,2023-01-08,Sitio web,False
+C00773,97096511-4,Daniela Vásquez Tapia,1973-10-12,Bulnes,2021-11-14,Caja,True
+C00774,91666992-5,Isidora Espinoza López,1991-07-14,Pinto,2021-09-04,Caja,True
+C00775,98.640.834-7,Isidora Pizarro Carrasco,2004-01-17,Chillán,2024-03-05,Caja,True
+C00776,98717048-4,Héctor Martínez Espinoza,1994-05-24,Chillán,2021-08-11,Campaña en local,True
+C00777,92591471-1,Matías Vera Contreras,1985-07-17,Chillán,2023-10-14,App móvil,True
+C00778,99.139.385-4,Valentina Sepúlveda Hernández,1979-02-03,Chillán,2022-03-19,Sitio web,False
+C00779,98780252-9,Natalia Vidal López,1961-12-03,Pinto,2021-12-12,Caja,True
+C00780,99761625-1,Luis Hernández Vergara,1993-05-16,Chillán,2022-07-30,App móvil,True
+C00781,971229837,María Rodríguez Lagos,1985-09-18,Chillán Viejo,2021-09-30,Caja,True
+C00782,92229628-6,Mauricio Álvarez Ramírez,1987-11-08,Chillan,2020-08-26,Sitio web,True
+C00783,97357887-1,Claudia Campos Sepúlveda,1984-10-10,Chillán,2022-11-15,,True
+C00784,98.598.704-1,Úrsula Cárdenas Gutiérrez,1992-08-03,Chillán,2024-01-08,Sitio web,False
+C00785,95463743-3,María Soto Bravo,1995-06-09,CHILLÁN,2021-05-13,Campaña en local,False
+C00786,95984169-1,Álvaro Fuentes Molina,1971-03-18,Quillón,2023-05-25,App móvil,True
+C00787,920675697,Paola Vidal Contreras,1996-10-20,San Ignacio,2023-03-22,App móvil,False
+C00788,92353694-9,Diego Pizarro Sepúlveda,1992-11-08,Chillan,2021-08-16,Caja,True
+C00789,95770245-7,Tomás Martínez Contreras,1952-06-01,Chillán,2022-12-24,Caja,False
+C00790,96.908.584-4,Sandra Pérez Fernández,1992-08-25,Bulnes,2023-07-04,Caja,True
+C00791,93.579.238-K,Pedro Soto Campos,2006-10-19,Chillán,2020-06-26,Campaña en local,True
+C00792,97774417-2,Matías Parra Cárdenas,1959-06-11,Chillán,2022-01-26,Caja,True
+C00793,96446468-5,Rodrigo Herrera Poblete,1979-08-13,San Carlos,2021-05-18,,False
+C00794,98319210-6,Paola Álvarez González,2003-03-04,,2024-01-28,Caja,True
+C00795,93605199-5,Francisco Silva Ramírez,1980-05-05,Chillán,2020-07-05,Caja,True
+C00796,93937383-7,Ana Aguilera Flores,1899-01-01,San Carlos,2022-09-30,Campaña en local,True
+C00797,93237569-9,Juan Herrera Vergara,1987-07-11,Coihueco,2021-02-06,Caja,False
+C00798,955681002,Diego Aguilera Soto,1995-08-20,Bulnes,2024-05-10,App móvil,True
+C00799,99121971-4,Fernanda Muñoz Contreras,2007-02-07,Chillán,2022-11-22,Caja,False
+C00800,95.367.180-8,Constanza Herrera Torres,1982-09-18,Chillán,2022-11-07,Caja,False
+C00801,95688799-2,Pamela Salazar Reyes,1945-04-16,Coihueco,2021-12-28,Caja,True
+C00802,96242512-7,Óscar Navarro Riquelme,2001-11-22,San Carlos,2024-05-13,Sitio web,True
+C00803,90656213-8,Javiera Valenzuela Martínez,1979-06-30,San Carlos,2022-01-14,Caja,True
+C00804,97.621.438-2,Óscar Vásquez Herrera,1979-05-29,Chillán,2021-01-17,Caja,True
+C00805,93.747.892-5,Joaquín Martínez Sepúlveda,1974-02-09,Pinto,2023-12-04,App móvil,False
+C00806,97260705-3,Ricardo Valenzuela Lagos,2005-10-17,Chillán,2021-02-16,App móvil,False
+C00807,95153957-0,Nicolás Yáñez Tapia,1994-02-18,Chillán,2021-06-04,Caja,False
+C00808,90611874-2,Sandra Pérez Guzmán,1990-03-03,,2021-09-30,Campaña en local,True
+C00809,928206440,Juan Reyes Herrera,1979-11-08,Chillán,2023-12-03,,False
+C00810,97.820.325-6,Benjamín Gutiérrez Cárdenas,1977-09-30,Chillan,2022-07-11,Sitio web,False
+C00811,94379311-5,Álvaro Fernández Fuentes,1981-11-16,CHILLÁN,2021-12-12,Caja,True
+C00812,94.415.156-7,Ana Castro Reyes,1991-04-15,,2022-08-14,Caja,True
+C00813,98885359-3,Ximena Sepúlveda Yáñez,1979-07-19,Quillón,2021-11-29,Caja,False
+C00814,97360147-4,Daniela Aguilera Castro,1980-12-16,San Carlos,2022-01-09,Caja,True
+C00815,94254380-8,Joaquín Fernández López,1943-11-27,Ñiquén,2021-12-13,Caja,False
+C00816,94437290-3,Felipe Hernández Vergara,1962-07-14,  Ránquil ,2021-06-25,App móvil,False
+C00817,97.023.714-3,Karen Rodríguez Gutiérrez,1981-11-05,Chillán Viejo,2024-05-10,App móvil,True
+C00818,98198569-9,Jorge Pérez Silva,1992-02-29,San Carlos,2022-05-04,Campaña en local,False
+C00819,90.699.998-6,Álvaro Aguilera Castro,1976-10-22,Pemuco,2021-10-27,App móvil,False
+C00820,93473821-7,Natalia Espinoza Lagos,1950-02-20,Pemuco,2023-03-16,Caja,True
+C00821,97246168-7,Catalina Vidal Soto,2003-09-05,Coihueco,2020-11-24,Caja,True
+C00822,95832678-5,Joaquín Lagos Díaz,1975-09-22,Chillán,2023-02-03,Sitio web,False
+C00823,90061207-9,Pamela Pérez Guzmán,1954-11-21,san carlos,2022-01-18,Caja,True
+C00824,93.540.676-5,Álvaro Sepúlveda Silva,1993-04-19,Bulnes,2024-04-17,Caja,True
+C00825,90935096-4,Felipe Gutiérrez Fernández,1995-10-09,San Ignacio,2020-09-03,Caja,True
+C00826,96254544-0,María Flores Lagos,1989-07-15,San Carlos,2024-01-08,App móvil,False
+C00827,93943292-2,Catalina Fernández Álvarez,1995-08-22,Chillán,2023-07-07,Caja,True
+C00828,92.280.461-3,José Navarro Yáñez,1977-04-25,San Carlos,2023-12-06,Caja,True
+C00829,91462644-7,Karen Yáñez Herrera,1995-02-15,RÁNQUIL,2022-11-15,Caja,True
+C00830,997027256,Sergio Araya Rodríguez,1991-09-16,  Chillán ,2020-11-24,Sitio web,True
+C00831,92592586-1,Francisco Castro Campos,1988-03-17,Chillán Viejo,2022-03-25,Caja,False
+C00832,93859794-4,Antonia Riquelme Salazar,1989-02-18,Chillán,2024-01-10,Sitio web,False
+C00833,98280962-2,Antonia Espinoza Rodríguez,1998-05-02,Coihueco,2022-02-18,Caja,False
+C00834,924466669,Jorge Vidal Pérez,2027-05-14,Bulnes,2020-08-30,Sitio web,True
+C00835,93.126.053-7,Álvaro Rojas Torres,1983-10-02,Chillán,2020-12-29,,False
+C00836,92370788-3,Javiera Contreras Vásquez,1998-12-20,Bulnes,2023-10-02,Caja,False
+C00837,97609035-7,Úrsula Díaz Guzmán,1995-03-10,Chillán,2023-07-25,Caja,True
+C00838,91.278.184-4,Daniela Salazar Carrasco,1988-09-24,CHILLÁN VIEJO,2020-07-29,Caja,True
+C00839,96.873.975-1,Marcela Sandoval Molina,1951-03-29,Quillón,2023-03-08,Caja,True
+C00840,90653441-K,Juan Sepúlveda Aguilera,1974-01-23,Chillán,2022-11-03,App móvil,True
+C00841,939796320,Úrsula Vera Vásquez,1995-01-24,CHILLÁN,2022-11-27,App móvil,True
+C00842,946489077,Francisco Reyes Carrasco,1977-06-10,Chillán,2024-05-31,App móvil,True
+C00843,963499620,María Vergara Rodríguez,1985-11-09,Chillán,2022-03-28,Caja,False
+C00844,90679156-0,Francisco Valenzuela López,1977-03-29,,2020-10-06,App móvil,False
+C00845,96460070-8,Sandra Guzmán Sepúlveda,1999-06-09,,2022-09-09,Caja,True
+C00846,93.071.643-K,Diego Rojas Muñoz,1998-02-01,,2023-12-23,App móvil,True
+C00847,95598561-3,Natalia Ramírez Vidal,1946-10-30,San Fabián,2020-10-24,Caja,False
+C00848,94348397-3,Valentina Aguilera Herrera,1975-01-28,Coihueco,2022-12-26,Caja,True
+C00849,99.284.159-1,Ignacio Araya Gutiérrez,2007-06-11,CHILLÁN,2023-12-02,Caja,False
+C00850,98121248-7,Diego Pizarro Salazar,1976-09-10,Chillán,2020-09-29,Caja,True
+C00851,92451591-0,Ana Gutiérrez Rodríguez,1983-04-12,Quillón,2020-07-17,Caja,True
+C00852,90.714.803-3,Claudia Martínez Bravo,2000-05-04,Chillán Viejo,2023-01-31,Sitio web,False
+C00853,99132884-K,Luis Cárdenas Vera,1974-10-26,,2021-08-12,Caja,False
+C00854,91916986-9,María Pérez Torres,1980-05-09,chillán,2022-07-20,Sitio web,True
+C00855,91247452-6,Verónica Gutiérrez Fuentes,1957-09-18,Chillán,2023-07-26,Sitio web,True
+C00856,92.064.379-5,Benjamín Valenzuela Figueroa,1999-12-11,Chillán,2024-04-16,Caja,True
+C00857,952971565,Rodrigo Aguilera Salazar,1994-02-02,Chillán,2023-09-29,Sitio web,True
+C00858,93.162.360-5,Matías Vidal Rojas,1990-11-08,Chillán Viejo,2020-06-06,Caja,False
+C00859,94132278-6,Sandra Yáñez Cárdenas,1981-04-19,Yungay,2024-04-26,App móvil,False
+C00860,92.093.889-2,Lorena Castillo Araya,1957-02-10,Chillán,2020-10-18,Sitio web,True
+C00861,90408765-3,Lorena Aguilera Molina,1950-04-08,Pinto,2022-08-03,Caja,False
+C00862,99.379.005-2,Claudia Díaz Parra,1983-01-07,Chillán,2020-06-10,Caja,False
+C00863,93701846-0,Natalia Díaz Araya,1996-03-17,San Fabián,2020-12-11,Caja,True
+C00864,95756676-6,Rodrigo Álvarez Rodríguez,1972-01-23,Chillán,2021-03-20,Caja,True
+C00865,92958712-K,Nicolás Bravo Fuentes,1992-04-13,coihueco,2023-09-23,App móvil,True
+C00866,99186441-5,Sandra Flores González,1995-07-18,Chillán,2020-09-14,Caja,True
+C00867,96117630-1,Patricia Molina Fuentes,1998-08-29,,2022-07-01,Caja,True
+C00868,99538658-5,Catalina Guzmán Silva,1978-06-11,Chillán,2020-07-03,Campaña en local,True
+C00869,96291972-3,Lorena López Lagos,1992-08-14,SAN CARLOS,2022-01-12,App móvil,True
+C00870,94.897.694-3,Catalina Herrera Lagos,1999-11-21,Quillón,2022-04-30,Caja,True
+C00871,99.211.575-0,Karen Tapia Cárdenas,1937-12-28,  El Carmen ,2021-03-05,App móvil,True
+C00872,96145803-K,Ricardo Rodríguez Díaz,1980-11-24,san carlos,2020-06-28,Campaña en local,True
+C00873,91074150-0,Benjamín Salazar Fuentes,1985-06-23,Coihueco,2024-02-03,Caja,False
+C00874,94584808-1,Felipe Molina Guzmán,1951-11-08,  Quillón ,2023-10-29,Caja,False
+C00875,94.921.980-1,Natalia Tapia López,1990-02-03,Chillán,2022-02-10,App móvil,True
+C00876,93.850.277-3,Ana Vera Bravo,1993-01-17,Chillán Viejo,2021-08-24,Caja,True
+C00877,935260140,Rodrigo Parra Cárdenas,1975-03-14,Chillán,2023-11-25,App móvil,False
+C00878,98479204-2,Francisco Reyes Rojas,1954-02-06,Chillán,2021-09-29,Caja,True
+C00879,90849161-0,Rodrigo Guzmán Bravo,1995-02-08,Yungay,2024-01-29,Sitio web,True
+C00880,91.494.404-K,Óscar González Fernández,1940-09-22,Pinto,2021-11-07,Campaña en local,False
+C00881,952193619,Valentina Espinoza Silva,2006-06-08,San Carlos,2023-06-02,Caja,True
+C00882,90510709-7,Cristian Herrera Álvarez,1994-01-20,Chillán,2024-02-02,Campaña en local,True
+C00883,97.235.235-7,Cristian Fernández Soto,1984-12-24,Ñiquén,2023-11-14,Caja,True
+C00884,91892343-8,Pamela Poblete Silva,1944-04-11,Pemuco,2023-09-22,Caja,False
+C00885,92182784-9,Ricardo Fuentes Vera,1977-01-14,,2021-12-17,App móvil,True
+C00886,99577553-0,Ximena Fernández Silva,2006-12-07,Chillán,2021-09-23,Campaña en local,True
+C00887,93985241-7,Ana Díaz Riquelme,1992-11-21,Chillán,2022-11-10,Caja,False
+C00888,90.355.399-5,Fernanda Torres Aguilera,1991-05-31,Chillán,2024-01-03,App móvil,False
+C00889,92.348.076-5,Nicolás Araya Pizarro,1971-06-05,Quillón,2022-04-02,Caja,True
+C00890,91.515.361-5,Karen Salazar Espinoza,1999-11-22,Chillán,2021-02-05,Caja,False
+C00891,95111591-6,Rodrigo Flores Contreras,2005-08-17,Chillán Viejo,2024-03-20,Sitio web,True
+C00892,92025384-9,Isidora Navarro Ramírez,1940-01-10,Quillon,2024-05-18,Campaña en local,False
+C00893,91001032-8,Gabriela Aguilera Álvarez,1970-11-12,SAN NICOLÁS,2021-10-05,Caja,True
+C00894,988723053,Manuel Poblete Hernández,1997-09-19,  Chillán ,2024-04-07,Caja,False
+C00895,91.111.471-2,Camila Castillo Hernández,1972-10-17,Trehuaco,2021-12-19,,False
+C00896,98.083.066-7,Francisco Parra Vidal,1956-07-19,Chillán,2022-01-30,App móvil,False
+C00897,90321294-2,Francisco López Reyes,1982-08-25,Bulnes,2024-05-03,Caja,False
+C00898,92790016-5,Sergio Espinoza Reyes,1958-12-19,  Ñiquén ,2021-09-13,Caja,False
+C00899,96666161-5,Catalina Guzmán Castillo,1972-02-21,San Carlos,2021-10-30,Caja,False
+C00900,95060151-5,Lorena Figueroa Cárdenas,1988-08-18,CHILLÁN,2022-05-30,Campaña en local,True
+C00901,98050346-1,Sebastián Castro Pérez,1996-03-29,Chillán,2024-04-08,App móvil,True
+C00902,94935438-5,Sandra López Rodríguez,1990-04-01,San Carlos,2023-07-18,Caja,True
+C00903,96556194-3,Matías Campos Sandoval,1979-04-25,Chillán,2021-10-30,Sitio web,False
+C00904,97.213.381-7,Sandra Rojas Sandoval,1957-07-25,Chillán,2022-05-18,Sitio web,True
+C00905,91.839.284-K,Joaquín Riquelme Salazar,1982-08-09,Chillán,2021-03-08,App móvil,True
+C00906,96064189-2,Héctor Parra Martínez,1986-10-14,El Carmen,2022-09-28,App móvil,True
+C00907,90115041-9,Luis Espinoza Figueroa,1990-06-07,San Carlos,2022-08-10,Caja,False
+C00908,915774482,José Díaz Soto,1995-09-24,San Carlos,2021-11-12,Caja,True
+C00909,96064264-3,Claudia Sepúlveda Pizarro,1998-07-31,  Chillán ,2023-04-10,App móvil,True
+C00910,94167180-2,Patricia Silva Araya,1959-03-07,Quillón,2023-07-26,Caja,True
+C00911,97345094-8,Ana Pizarro Castillo,1985-11-15,san carlos,2024-05-12,Caja,False
+C00912,993105619,Diego Pérez Riquelme,1999-05-19,Pinto,2024-04-09,Caja,False
+C00913,92646988-6,Paola Vidal Castillo,1944-04-27,,2020-12-29,Caja,True
+C00914,97.697.929-K,Ximena González Herrera,1996-10-10,Chillan,2022-12-10,Sitio web,True
+C00915,94566146-1,Benjamín Sandoval Aguilera,1936-08-03,Quillón,2023-05-22,Caja,True
+C00916,99.924.225-1,Claudia Tapia Navarro,1987-06-27,San Fabián,2023-01-26,Caja,True
+C00917,99742029-2,Paola Soto Vidal,1975-09-22,Chillán,2022-11-05,Campaña en local,False
+C00918,92.490.265-5,Ricardo Cárdenas Vásquez,1992-10-24,San Carlos,2022-06-05,Caja,True
+C00919,90.371.538-3,Marcela Pizarro Fuentes,1981-05-25,Pinto,2021-05-26,Sitio web,False
+C00920,96419834-9,Juan Navarro Vera,2005-12-27,Cobquecura,2022-12-21,Caja,True
+C00921,95461855-2,Cristian Navarro Castro,1939-10-10,  San Carlos ,2020-09-18,Caja,False
+C00922,90512001-8,Lorena Parra Vásquez,2002-05-09,,2022-09-13,App móvil,True
+C00923,91.954.394-9,Antonia Rodríguez Carrasco,2002-08-05,San Fabián,2023-09-12,Campaña en local,False
+C00924,976795091,Ignacio Espinoza Tapia,1998-06-25,,2024-03-18,Caja,True
+C00925,936979807,Verónica Hernández Rodríguez,2005-07-21,CHILLÁN,2023-09-08,Campaña en local,False
+C00926,99.360.606-5,Javiera Parra Cárdenas,1972-10-19,  Ninhue ,2020-07-19,App móvil,True
+C00927,97039654-3,Cristian Rojas Contreras,1939-06-29,Chillán,2023-01-26,Caja,True
+C00928,95741252-1,Sebastián Vera Aguilera,1997-03-18,Chillán,2021-01-11,Caja,True
+C00929,95733874-7,Felipe González Álvarez,1997-04-14,coihueco,2020-08-19,Caja,True
+C00930,94.888.058-K,Rosa Sepúlveda Bravo,1999-04-13,CHILLÁN,2022-03-14,Caja,True
+C00931,96704888-7,Diego Valenzuela Molina,1939-10-27,San Carlos,2023-03-23,Caja,False
+C00932,93317618-5,Catalina Riquelme Rodríguez,1994-08-22,San Ignacio,2022-09-26,Caja,False
+C00933,98.314.224-9,Jorge Poblete Sandoval,1972-02-27,Bulnes,2023-08-09,Sitio web,True
+C00934,99158770-5,Úrsula Morales Ramírez,1963-02-08,  Chillán ,2024-02-28,Sitio web,True
+C00935,99036083-9,Javiera Sandoval Contreras,1988-04-29,SAN NICOLÁS,2021-03-10,Caja,True
+C00936,96251831-1,Jorge Cárdenas Rojas,1991-09-08,Chillán,2023-09-09,Campaña en local,True
+C00937,98791647-8,José Vergara Poblete,1991-09-27,Chillán,2021-03-08,Caja,True
+C00938,944222286,Cristian Fuentes Álvarez,1999-05-02,Bulnes,2021-08-14,Caja,True
+C00939,98874754-8,Cristian Lagos Aguilera,1976-11-04,Chillán,2021-08-28,Caja,True
+C00940,90327104-3,Felipe Sepúlveda Lagos,1999-07-22,quillón,2020-11-19,Caja,True
+C00941,92514903-9,Ximena Tapia González,2027-05-14,Chillán Viejo,2023-05-02,Caja,True
+C00942,92463217-8,Úrsula González Silva,1947-10-28,Chillán,2022-08-28,Caja,False
+C00943,95504899-7,Pedro Soto González,1987-05-06,Chillán Viejo,2022-04-29,Sitio web,True
+C00944,99932102-K,Antonia Reyes Salazar,1974-11-24,Chillán Viejo,2021-10-29,Sitio web,False
+C00945,995924684,Joaquín Riquelme Figueroa,1993-11-14,San Carlos,2023-12-19,Caja,True
+C00946,91003499-5,Carmen González Reyes,2000-01-28,Yungay,2023-12-18,Caja,False
+C00947,98.167.215-1,Verónica Pérez Campos,1962-05-15,Chillán,2022-05-19,Caja,True
+C00948,97870883-8,Sandra Guzmán Silva,2005-05-17,Coihueco,2021-09-12,Caja,True
+C00949,95202645-3,Fernanda Vidal Vera,1995-03-04,,2024-04-20,Sitio web,False
+C00950,90046448-7,Karen Lagos Tapia,1970-09-14,Chillan,2021-11-11,Caja,True
+C00951,91772591-8,Rosa Gutiérrez Herrera,1972-02-13,Chillan,2021-08-29,,True
+C00952,93587571-4,Héctor Contreras Hernández,1939-03-30,Chillán,2022-05-02,Caja,True
+C00953,94.846.756-9,Jorge Soto Gutiérrez,1977-09-11,Chillán,2021-02-03,Caja,True
+C00954,958597444,Benjamín Muñoz Espinoza,1951-09-19,Bulnes,2020-10-15,Campaña en local,True
+C00955,97487730-9,Sandra Torres Salazar,1939-08-17,San Carlos,2023-01-30,App móvil,True
+C00956,92384767-7,Héctor Campos Silva,1969-09-11,San Fabián,2022-06-19,Caja,True
+C00957,90503811-7,Claudia Vera Reyes,1993-12-26,San Carlos,2022-01-18,Campaña en local,True
+C00958,95289591-5,Lorena Cárdenas Navarro,1997-02-16,Bulnes,2023-09-18,Caja,False
+C00959,90261410-9,Rodrigo Parra Sepúlveda,2007-02-22,Chillán,2023-12-05,App móvil,True
+C00960,99834358-5,Karen Gutiérrez Sepúlveda,1980-03-19,San Nicolás,2022-04-12,Sitio web,True
+C00961,91065735-6,Ricardo Navarro Pérez,1993-06-30,  Chillán ,2022-12-04,Sitio web,False
+C00962,96110281-2,Ximena Navarro Vera,2001-08-22,Quirihue,2023-05-06,Caja,True
+C00963,90.397.741-8,Catalina Lagos Sandoval,1994-10-17,Coihueco,2023-07-25,App móvil,False
+C00964,96.952.931-9,Constanza Torres Vidal,1979-08-25,Chillán,2022-09-12,,True
+C00965,938844615,Manuel Sandoval Fuentes,1970-11-15,Chillán,2024-05-31,Caja,True
+C00966,97.911.386-2,Pedro Vásquez Valenzuela,2005-10-28,San Carlos,2021-07-17,App móvil,False
+C00967,94.609.386-6,Cristian Riquelme Navarro,1973-09-17,San Carlos,2020-06-20,Caja,True
+C00968,94.053.710-K,Jorge Reyes Molina,1979-03-08,Ninhue,2022-01-21,Sitio web,True
+C00969,97685581-7,Joaquín González Martínez,1998-03-28,San Carlos,2021-07-02,Caja,True
+C00970,92817986-9,Benjamín Flores Flores,2004-06-25,Coihueco,2021-12-11,,True
+C00971,98.067.779-6,Marcela Soto López,1976-11-19,San Fabián,2023-03-21,Caja,True
+C00972,90119096-8,Sebastián Salazar Castro,1980-12-18,bulnes,2024-02-20,Sitio web,False
+C00973,973468782,Jorge Castillo Contreras,1973-12-26,Coihueco,2022-07-05,Caja,True
+C00974,93.363.271-7,Sergio Vidal Figueroa,1990-10-31,chillán,2022-11-07,Sitio web,True
+C00975,98.218.569-6,Matías Espinoza Lagos,1998-09-21,San Carlos,2024-04-23,Caja,True
+C00976,97976605-K,Úrsula Soto Torres,1982-08-03,  Chillán ,2021-10-01,Caja,True
+C00977,99.951.997-0,Jorge Soto Castro,1993-10-06,,2022-11-30,Campaña en local,True
+C00978,97.495.170-3,José Vásquez Araya,1999-08-04,Coihueco,2022-11-30,Caja,True
+C00979,99.219.772-2,Ignacio Navarro Guzmán,1970-12-15,Coihueco,2021-02-01,Caja,False
+C00980,902191372,Álvaro Valenzuela Pérez,1950-09-23,Coelemu,2023-08-24,Caja,True
+C00981,90744807-K,Javiera Soto Campos,2000-04-17,Bulnes,2022-04-24,Caja,True
+C00982,97143015-K,Isidora Castillo Rodríguez,1993-08-12,,2023-04-04,Caja,True
+C00983,97069291-6,Rodrigo Díaz Rodríguez,1988-07-31,Chillan,2022-02-26,App móvil,True
+C00984,94186236-5,Karen Guzmán Álvarez,1979-12-16,San Carlos,2023-06-23,App móvil,True
+C00985,913008383,Rodrigo Cárdenas Castillo,1973-09-07,Chillán,2020-11-11,Caja,True
+C00986,97660985-9,Constanza Vera Álvarez,1958-11-17,Quillón,2021-01-27,Caja,True
+C00987,92.346.925-7,Rodrigo Rojas Sandoval,1995-10-10,El Carmen,2022-07-11,Sitio web,False
+C00988,92182730K,Ricardo Tapia Vidal,1975-12-26,,2022-09-24,Caja,True
+C00989,97.050.042-1,Rodrigo Sepúlveda López,1974-04-14,Chillán,2023-04-03,Caja,True
+C00990,95311527-1,Úrsula Gutiérrez Gutiérrez,1990-09-04,San Ignacio,2021-09-24,Campaña en local,False
+C00991,90.303.325-8,Diego Salazar Figueroa,1977-03-31,,2023-09-15,Caja,False
+C00992,94194761-1,Ignacio Rodríguez Sandoval,1997-02-07,Chillán,2022-08-26,Caja,True
+C00993,97004348-9,Mauricio Figueroa Martínez,1993-08-25,CHILLÁN,2024-05-16,Caja,True
+C00994,99107794-4,Tomás Morales Hernández,1995-03-24,Chillán,2023-04-05,Caja,True
+C00995,98837076-2,Daniela Carrasco López,2001-01-01,Chillán,2022-02-05,Sitio web,False
+C00996,93298356-7,Daniela Díaz Figueroa,1970-08-26,Portezuelo,2020-06-05,Caja,False
+C00997,94164141-5,Gabriela Torres Flores,1983-03-30,Chillán Viejo,2021-07-11,Caja,True
+C00998,98.517.797-K,Rodrigo Lagos Flores,1999-09-18,Quillón,2023-09-07,Caja,False
+C00999,90.288.910-8,Tomás Salazar Hernández,1899-01-01,Chillán,2023-12-14,Caja,True
+C01000,94.948.953-1,Mauricio Sepúlveda Vergara,2002-06-08,Chillán Viejo,2022-06-01,Caja,False
+C01001,99.020.571-K,Patricia Contreras Vásquez,2003-03-15,  Bulnes ,2021-11-27,Campaña en local,True
+C01002,97.095.095-8,Ignacio Espinoza Reyes,1948-06-21,Chillán,2022-03-16,Caja,False
+C01003,99059211-K,Marcela Lagos Rojas,1975-08-11,Chillán,2021-01-06,App móvil,False
+C01004,91089623-7,Pedro Espinoza Torres,1976-03-23,San Carlos,2022-03-21,Caja,True
+C01005,91.894.406-0,Rodrigo Valenzuela Soto,1984-07-24,CHILLÁN,2022-01-08,Sitio web,True
+C01006,95.080.936-1,Fernanda Aguilera Hernández,1993-06-10,Chillán,2021-04-22,Caja,False
+C01007,998062497,Ximena Yáñez Reyes,1988-12-04,Coihueco,2024-04-11,Campaña en local,True
+C01008,92749581-3,Fernanda Reyes Reyes,1997-01-18,Bulnes,2023-09-20,Caja,True
+C01009,91.473.569-6,Joaquín Yáñez López,1971-02-22,Quillón,2021-05-04,Caja,False
+C01010,94166203-K,Catalina Vergara Navarro,2001-11-30,,2021-01-22,Caja,True
+C01011,93022884-2,Gabriela Fuentes Vásquez,1952-10-07,  Coelemu ,2022-09-28,Sitio web,True
+C01012,96483122-K,Matías Riquelme Gutiérrez,1981-06-15,Quirihue,2021-03-24,Campaña en local,False
+C01013,98.925.991-1,Karen Flores Lagos,1976-03-29,San Carlos,2024-03-14,Caja,True
+C01014,92672757-5,Javiera López Vásquez,1960-01-09,San Carlos,2021-05-23,Caja,True
+C01015,90893653-1,Juan Valenzuela Pérez,1948-05-02,,2022-07-27,App móvil,True
+C01016,92446834-3,María Vásquez Reyes,1998-07-01,,2022-03-14,Caja,True
+C01017,970743197,Patricia Rodríguez Pizarro,2001-04-12,Chillán Viejo,2024-01-06,Campaña en local,True
+C01018,94.006.705-7,Claudia Campos Araya,2006-06-17,El Carmen,2023-04-04,Caja,False
+C01019,97904965-K,Felipe Molina Bravo,1956-07-02,San Carlos,2022-07-28,Sitio web,False
+C01020,99.032.721-1,Rosa Aguilera Araya,1981-06-03,Pinto,2023-08-15,Sitio web,True
+C01021,93767654-9,Patricia Tapia Yáñez,1987-10-10,,2024-01-20,Caja,True
+C01022,95.954.663-0,Tomás Campos Fuentes,1958-08-12,Chillán,2021-09-11,Sitio web,True
+C01023,97883024-2,Óscar Vidal Díaz,1984-10-26,Quillón,2022-09-14,Caja,True
+C01024,92051642-4,Nicolás Vergara Carrasco,1990-07-18,Chillán Viejo,2022-04-25,App móvil,True
+C01025,98222267-2,Pedro Martínez Campos,1990-01-04,Yungay,2022-09-11,Sitio web,False
+C01026,99.425.498-7,Natalia Rojas Fuentes,2006-06-13,chillán,2020-12-21,Campaña en local,True
+C01027,90430816-1,Fernanda Morales Herrera,1995-02-01,Coihueco,2022-01-26,App móvil,False
+C01028,94367201-6,Pedro Sandoval Bravo,1973-03-07,San Carlos,2022-07-27,App móvil,True
+C01029,90501707-1,Ricardo Rodríguez Díaz,1937-08-02,Chillán Viejo,2021-08-21,,True
+C01030,922277311,Mauricio Fuentes Reyes,1973-12-05,Chillán,2021-07-20,Caja,True
+C01031,91.244.851-7,Jorge López Pérez,1974-07-21,Quillón,2023-07-05,Caja,True
+C01032,97997065-K,Valentina Álvarez Vidal,1979-09-13,San Carlos,2023-12-25,Caja,True
+C01033,94.737.009-K,Ana Castro Vergara,1998-07-19,Bulnes,2023-09-17,Campaña en local,False
+C01034,91.849.483-9,Rodrigo Poblete Cárdenas,2002-08-15,Quirihue,2022-09-11,Caja,True
+C01035,91820001-0,Ana Vera Gutiérrez,1976-09-15,Chillán,2023-07-23,Campaña en local,True
+C01036,90281264-4,Catalina Aguilera González,1982-05-23,  San Ignacio ,2022-06-23,Caja,True
+C01037,91240440-4,Gabriela Parra Molina,1988-01-21,,2023-05-16,Caja,True
+C01038,930592773,Camila Castillo Pérez,1979-11-27,Chillán Viejo,2023-11-20,Caja,False
+C01039,93271242-3,Patricia Herrera Álvarez,1980-03-04,quirihue,2021-08-02,Caja,True
+C01040,903779209,Luis Muñoz Soto,2006-06-14,Chillán,2023-04-08,Campaña en local,True
+C01041,927507870,Matías Fuentes Vergara,1974-02-05,San Carlos,2024-01-25,Caja,False
+C01042,92694807-5,Manuel Valenzuela Molina,1986-10-07,chillán,2020-12-03,App móvil,True
+C01043,98877114-7,Marcela Castro Díaz,1980-07-29,Bulnes,2022-10-04,Caja,True
+C01044,96277885-2,Álvaro Espinoza Vásquez,2000-06-01,,2022-11-18,Campaña en local,True
+C01045,93.487.273-8,Matías Aguilera Pizarro,1997-12-19,Chillán,2021-11-22,Caja,True
+C01046,96.767.135-5,Valentina Fernández Bravo,1987-05-21,San Carlos,2023-04-18,Campaña en local,True
+C01047,96568451-4,Joaquín Espinoza Poblete,1899-01-01,Chillán,2024-03-04,Campaña en local,False
+C01048,94.008.475-K,Patricia Castillo Vidal,1986-03-05,Chillán,2024-04-19,Caja,True
+C01049,956951046,Jorge Vera Rojas,1952-04-04,Chillán,2022-05-07,Caja,False
+C01050,94719125-K,Gabriela Ramírez Álvarez,1979-10-11,Bulnes,2023-05-28,App móvil,True
+C01051,97262919-7,Daniela Fernández Riquelme,1994-01-17,Chillán,2022-05-13,App móvil,False
+C01052,99.486.515-3,Javiera Molina Molina,1954-05-28,Chillán,2023-07-26,Sitio web,True
+C01053,94.441.750-8,Natalia Bravo Riquelme,1990-03-02,San Nicolás,2024-02-26,Caja,True
+C01054,97.292.951-4,Pedro Lagos Poblete,1942-01-04,Chillán,2022-07-28,Caja,True
+C01055,97203435-5,Patricia Parra Guzmán,2000-11-21,Chillán Viejo,2022-01-27,App móvil,True
+C01056,90741505-8,Óscar Yáñez Silva,1985-09-15,  Trehuaco ,2023-09-24,App móvil,True
+C01057,95.999.512-5,Úrsula Hernández Carrasco,1945-01-09,Yungay,2020-11-27,Caja,False
+C01058,90894361-9,Ricardo Valenzuela Sepúlveda,1984-12-14,,2023-07-06,Caja,True
+C01059,93.849.211-5,Valentina Castro Aguilera,1993-09-25,Pinto,2021-09-04,Caja,False
+C01060,92607753-8,Ana Díaz Martínez,1945-07-14,Chillán,2022-09-15,Caja,True
+C01061,93902650-9,Claudia Cárdenas Valenzuela,1978-07-25,Chillán,2023-01-14,Caja,True
+C01062,93.827.564-5,Claudia Bravo Rojas,1955-08-10,Bulnes,2024-04-28,Caja,True
+C01063,925348511,Karen Martínez Martínez,1989-07-27,  Coihueco ,2021-12-30,Caja,True
+C01064,93094018-6,Daniela Soto Carrasco,1984-04-20,San Carlos,2024-03-12,Caja,False
+C01065,95930226-K,Felipe Castillo Araya,1983-06-14,San Carlos,2022-10-18,Caja,False
+C01066,97540732-2,Carmen Carrasco Vergara,1986-12-07,Coihueco,2024-01-02,Caja,True
+C01067,97.877.356-7,Claudia Martínez Poblete,1971-06-14,San Carlos,2022-02-16,Caja,True
+C01068,90.017.799-2,Úrsula Soto Fernández,1992-08-15,El Carmen,2020-12-05,App móvil,True
+C01069,96584311-6,Tomás Carrasco Valenzuela,1986-04-01,CHILLÁN VIEJO,2023-07-07,App móvil,False
+C01070,93407479-3,Verónica Fuentes Parra,1972-03-21,Chillán,2023-03-22,Caja,False
+C01071,98342343-4,Karen Pérez Vásquez,1986-04-22,Pinto,2023-01-04,Caja,True
+C01072,95348047-6,Álvaro Herrera Muñoz,1987-02-16,QUILLÓN,2023-10-29,Caja,True
+C01073,98.912.158-8,Sandra Pizarro Morales,2007-05-23,Coihueco,2022-12-29,Caja,False
+C01074,990922160,Francisco Fernández Hernández,1994-08-26,,2024-04-29,Caja,True
+C01075,93130453-4,Héctor Flores Herrera,1938-01-31,chillán,2022-03-27,Campaña en local,False
+C01076,91093220-9,Francisco Molina Pérez,1993-05-29,Chillán,2023-08-20,Caja,False
+C01077,94200120-7,Valentina Araya Bravo,2001-07-13,El Carmen,2022-04-19,Sitio web,True
+C01078,966090170,Cristian Fuentes Yáñez,1994-03-31,Chillan,2023-01-02,Caja,True
+C01079,90.291.493-5,Felipe Contreras Vera,2005-11-01,Yungay,2022-08-24,Caja,False
+C01080,95634733-5,Juan Flores Vásquez,1985-05-22,chillán viejo,2021-04-22,Campaña en local,False
+C01081,93.318.511-7,Gabriela Navarro Vera,1995-09-20,Bulnes,2023-07-03,Caja,False
+C01082,95.133.063-9,Patricia Gutiérrez Pérez,1975-04-09,,2023-11-10,Sitio web,False
+C01083,91.484.680-3,Manuel Carrasco Tapia,1980-12-14,Bulnes,2021-12-31,Campaña en local,True
+C01084,94278580-1,Gabriela González Salazar,1960-06-15,Ránquil,2023-01-19,Caja,True
+C01085,91537318-6,Camila Campos Yáñez,1952-08-27,San Carlos,2020-06-07,Caja,False
+C01086,91843312-0,Juan Rodríguez Valenzuela,1963-04-04,Chillán,2022-10-30,,True
+C01087,90880678-6,Pamela Hernández Soto,1996-11-11,Chillán,2023-12-17,Caja,False
+C01088,93402018-9,José Molina Sandoval,1983-05-21,San Carlos,2023-07-17,Caja,False
+C01089,96550488-5,Nicolás Díaz Vidal,1986-10-18,  Ránquil ,2021-02-13,Caja,False
+C01090,94739289-1,Manuel Molina Soto,1996-03-16,Bulnes,2022-03-11,App móvil,True
+C01091,964226083,Carmen Fuentes Fuentes,1948-10-15,san carlos,2023-04-07,App móvil,False
+C01092,92759332-7,Fernanda Ramírez Díaz,1970-07-06,San Ignacio,2021-12-06,Caja,False
+C01093,92565875-8,Karen Reyes Vidal,1988-12-09,Chillán,2021-11-29,App móvil,True
+C01094,97358189-9,Juan Bravo Rojas,1970-10-14,Chillán,2020-11-06,Caja,True
+C01095,95217177-1,Héctor Pérez Aguilera,1980-01-20,Yungay,2024-05-04,Sitio web,False
+C01096,91887050-4,Daniela Campos Gutiérrez,2003-06-25,Chillán,2021-08-03,Sitio web,True
+C01097,986166602,Úrsula Hernández Vidal,1947-12-28,Chillan,2020-11-22,App móvil,False
+C01098,95888911-9,Verónica Vergara Rojas,1991-11-06,Chillán,2021-12-31,Caja,False
+C01099,95.840.549-9,Patricia Sepúlveda Vera,1976-05-03,Coelemu,2021-11-29,Caja,True
+C01100,98.482.705-9,Paola Yáñez Fuentes,1989-06-18,  Quillón ,2024-05-22,Campaña en local,True
+C01101,93010270-9,Pamela Salazar Soto,1986-07-29,Chillán Viejo,2021-10-23,App móvil,True
+C01102,93004492-K,Antonia Salazar Araya,1948-04-10,Pinto,2023-02-22,App móvil,True
+C01103,95710027-9,Rodrigo Reyes Gutiérrez,1991-11-13,Chillan,2023-03-06,App móvil,False
+C01104,92.973.619-2,Luis Parra Fuentes,1982-06-01,San Carlos,2023-07-12,Caja,True
+C01105,90131810-7,Benjamín Salazar Álvarez,1963-02-01,Chillán,2022-08-26,Caja,True
+C01106,94974769-7,Natalia Vásquez López,1990-12-11,Chillán,2020-12-02,Caja,True
+C01107,95607871-7,Héctor Navarro Soto,1976-07-23,Chillan,2022-06-23,App móvil,False
+C01108,90660853-7,Antonia Yáñez Araya,1993-05-12,El Carmen,2024-03-10,Caja,True
+C01109,95859768-1,Verónica Silva Castillo,1980-10-26,Quillón,2021-04-18,,False
+C01110,993598062,Luis Salazar Flores,1974-01-28,Bulnes,2022-01-07,Caja,False
+C01111,97551763-2,Joaquín Salazar Cárdenas,2004-04-30,  Pinto ,2021-08-13,Sitio web,False
+C01112,93276371-0,Héctor Espinoza Ramírez,1972-06-30,chillán,2023-07-27,Caja,True
+C01113,90877370-5,Isidora Flores Martínez,1955-12-14,San Nicolás,2022-03-21,Caja,True
+C01114,96907172-k,Patricia Molina Figueroa,1992-03-18,San Fabián,2020-12-25,Campaña en local,True
+C01115,97.808.368-4,Marcela Poblete Pérez,1978-06-20,,2021-03-20,Caja,True
+C01116,92150336-9,Tomás Vera Fuentes,1978-10-28,Chillán,2022-01-06,Caja,False
+C01117,97210046-3,Sandra Valenzuela Ramírez,1995-10-23,El Carmen,2020-11-08,Caja,True
+C01118,93546259-2,Mauricio Pizarro González,1983-05-14,CHILLÁN,2023-12-12,Caja,True
+C01119,92187017-5,Nicolás Bravo Ramírez,1982-07-25,El Carmen,2022-02-28,Sitio web,True
+C01120,90594025-2,Daniela Fernández Aguilera,1945-04-07,Chillán Viejo,2022-06-20,Caja,True
+C01121,99.872.076-1,Isidora Carrasco Bravo,1993-05-13,Chillán Viejo,2023-08-16,App móvil,False
+C01122,92132193-7,Héctor Sandoval Araya,1983-03-09,Chillán,2022-08-08,App móvil,False
+C01123,95461644-4,Mauricio Campos Contreras,1997-12-12,Chillán,2021-01-16,Caja,False
+C01124,95.948.860-6,Tomás Soto Muñoz,1978-12-30,  Chillán ,2022-10-25,Campaña en local,False
+C01125,92.319.200-K,Sandra Molina Cárdenas,1994-08-21,,2020-10-13,App móvil,True
+C01126,95539352-K,Valentina Fernández Vásquez,1983-07-09,Pemuco,2021-04-11,Caja,True
+C01127,97.132.635-2,Felipe Carrasco López,2003-02-04,Pemuco,2022-11-17,Campaña en local,True
+C01128,98.767.447-4,Ignacio Fernández Pérez,1952-09-06,Pemuco,2023-12-03,Caja,False
+C01129,94145047-4,Benjamín Figueroa Fuentes,1993-11-28,Chillán,2021-02-08,Caja,True
+C01130,99.019.631-1,Óscar Vidal Rojas,1992-10-09,YUNGAY,2022-06-09,Caja,True
+C01131,96549304-2,Tomás Vidal Rojas,1983-11-01,COIHUECO,2020-06-10,Sitio web,True
+C01132,93.148.891-0,Tomás Castillo Castillo,1972-05-22,Ñiquén,2023-08-31,Sitio web,True
+C01133,95.967.578-3,Úrsula Rojas Cárdenas,1970-08-06,Bulnes,2022-07-21,Caja,True
+C01134,92.098.555-6,María Sandoval Ramírez,1945-09-22,Chillán,2023-04-13,Caja,False
+C01135,90.147.265-3,Mauricio Rodríguez Vera,2002-05-09,Chillán,2022-06-21,Caja,False
+C01136,96000035-8,María Contreras González,1994-10-22,Chillán,2023-03-12,Sitio web,False
+C01137,964423571,Úrsula Morales Fernández,1942-08-18,,2021-05-19,,False
+C01138,97074149-6,Ximena Silva Díaz,1983-10-03,Chillán,2023-05-27,Caja,True
+C01139,95.838.147-6,Isidora Figueroa Pizarro,1975-10-26,,2023-12-17,Caja,True
+C01140,93126044-8,Matías Castro Espinoza,1980-06-15,San Nicolás,2022-07-11,Caja,True
+C01141,99.069.937-2,Álvaro Rodríguez Soto,1944-03-09,Chillán,2022-09-07,Sitio web,True
+C01142,99.210.139-3,Verónica Guzmán Reyes,1947-04-13,Bulnes,2023-10-30,Caja,False
+C01143,90708485-K,Sergio Ramírez Parra,1982-02-27,Trehuaco,2021-08-29,App móvil,True
+C01144,97824038-0,María Pérez Rojas,1976-05-15,San Carlos,2021-05-19,Caja,True
+C01145,95543079-4,Nicolás Tapia Soto,2000-12-15,San Carlos,2023-12-16,Sitio web,False
+C01146,96304919-6,Cristian Díaz Contreras,1900-01-01,Bulnes,2022-03-18,App móvil,True
+C01147,93610497-5,Luis Castro Díaz,1947-06-11,Chillán,2020-09-07,Caja,True
+C01148,91.609.460-4,Catalina Pizarro Fuentes,1992-09-27,pinto,2023-03-24,Caja,True
+C01149,94.167.696-0,Verónica Espinoza Torres,1997-08-19,BULNES,2023-08-18,Caja,True
+C01150,98812379-K,Héctor Sepúlveda Poblete,1980-07-11,Bulnes,2023-01-08,Caja,False
+C01151,94710975-8,Natalia Álvarez Torres,1949-06-15,,2022-10-17,Caja,False
+C01152,91005466-k,Marcela Sandoval Sepúlveda,2005-05-31,Quillón,2024-03-03,Sitio web,False
+C01153,96344246-7,Carmen Martínez Vidal,1985-06-03,Quillón,2023-03-12,Caja,False
+C01154,90124249-6,Cristian Hernández Fernández,1995-02-20,Chillán,2022-07-15,,True
+C01155,99.499.168-K,Juan Sandoval Parra,1980-06-28,Chillán,2023-01-10,,True
+C01156,90.091.072-K,Javiera Campos Campos,2002-10-10,,2020-09-23,Caja,True
+C01157,90983665-4,Juan Vidal Soto,1995-04-13,,2021-11-17,Caja,False
+C01158,93623126-8,Óscar Torres Poblete,1977-10-09,Ñiquén,2024-01-26,Caja,False
+C01159,94.144.564-0,Javiera Flores Hernández,1984-01-23,Chillán,2021-07-07,Caja,True
+C01160,923748369,Verónica Figueroa Fernández,1941-04-12,Bulnes,2023-08-03,Sitio web,False
+C01161,90.435.274-8,Marcela Gutiérrez Vera,1961-12-02,Bulnes,2021-12-25,Caja,True
+C01162,91566974-3,Antonia Araya Contreras,1989-08-10,Chillán,2023-01-21,Caja,False
+C01163,90.372.795-0,Natalia Díaz Castillo,1992-01-30,Yungay,2022-02-01,Caja,True
+C01164,981297091,Diego Vera Martínez,1974-02-17,Chillán,2022-11-24,Campaña en local,False
+C01165,90867866-4,Nicolás Navarro Parra,1945-08-19,Pinto,2021-05-25,Campaña en local,True
+C01166,924814284,Nicolás Sandoval Rojas,1990-10-05,Coihueco,2021-01-01,Caja,False
+C01167,98542439-K,Sandra Navarro Molina,1960-07-16,Chillán,2020-10-04,Caja,True
+C01168,95919069-0,Pamela Soto Herrera,2001-11-15,Ránquil,2022-07-21,Caja,False
+C01169,93026789-9,Ana Contreras Díaz,1995-07-28,Yungay,2024-04-26,Caja,True
+C01170,97116769-6,Fernanda Riquelme Guzmán,1949-09-11,Chillan,2023-04-05,App móvil,False
+C01171,97925432-6,Jorge Morales Molina,1999-10-27,Portezuelo,2021-07-15,Caja,True
+C01172,978830870,Constanza López Reyes,1976-04-05,  Ñiquén ,2021-08-30,Caja,True
+C01173,901465843,Isidora Navarro Sepúlveda,1950-01-29,el carmen,2021-12-31,App móvil,True
+C01174,98939843-1,Constanza Torres Cárdenas,1994-06-15,pinto,2022-07-10,Caja,True
+C01175,94912583-1,María Contreras Sepúlveda,1983-10-24,,2022-01-14,Caja,True
+C01176,93698069-4,Isidora González Herrera,2003-05-14,Chillán,2023-04-28,App móvil,True
+C01177,96026228-k,Antonia Pizarro Pizarro,1988-08-10,Bulnes,2022-11-23,Caja,True
+C01178,935789672,Manuel Bravo Gutiérrez,2001-11-15,Coihueco,2022-01-23,Caja,True
+C01179,93.403.221-7,Rodrigo López Álvarez,2027-05-14,El Carmen,2020-09-12,App móvil,False
+C01180,94716648-4,Daniela Carrasco Castro,1947-06-24,Coihueco,2021-05-22,Caja,True
+C01181,93774168-5,Joaquín Gutiérrez Valenzuela,2000-12-25,Bulnes,2021-08-14,Caja,False
+C01182,97110718-9,Carmen Salazar Carrasco,1984-07-21,chillán,2021-08-07,Sitio web,True
+C01183,98205948-8,Isidora Pérez Contreras,2002-01-14,CHILLÁN VIEJO,2022-02-15,App móvil,True
+C01184,901115656,Natalia Poblete González,1992-11-10,,2020-05-30,Caja,False
+C01185,97618230-8,Sandra Bravo Díaz,1978-08-23,Coihueco,2020-11-26,Campaña en local,True
+C01186,91925279-0,Sebastián Figueroa Aguilera,1946-03-04,Chillán,2021-07-27,Campaña en local,True
+C01187,94.151.923-7,Benjamín Parra Campos,2005-12-05,Coihueco,2021-05-15,App móvil,False
+C01188,92.543.259-8,Fernanda Ramírez Parra,1990-03-27,  Chillán Viejo ,2020-07-06,App móvil,True
+C01189,92.120.980-0,Manuel Álvarez Valenzuela,1976-09-29,Chillán,2023-07-15,Caja,False
+C01190,97.855.129-7,Úrsula Gutiérrez Torres,1994-12-27,Chillán,2023-12-10,Caja,True
+C01191,91.811.138-7,Daniela Pérez Vera,1973-12-23,San Carlos,2024-04-12,Caja,True
+C01192,91730294-4,Cristian Herrera Contreras,1978-12-31,Chillán Viejo,2020-06-13,Caja,True
+C01193,95700910-7,Carmen Parra Reyes,1991-12-09,Chillán,2024-02-16,Caja,True
+C01194,934683013,Verónica Yáñez Bravo,1993-09-29,San Carlos,2020-12-22,Sitio web,True
+C01195,93.042.132-4,Daniela Parra Lagos,2026-12-31,Chillán,2022-01-31,Campaña en local,False
+C01196,918878521,Joaquín Vásquez Yáñez,1999-05-26,El Carmen,2022-07-06,Sitio web,False
+C01197,98870032-0,Karen Yáñez Silva,1989-05-12,Chillán Viejo,2021-09-14,Sitio web,False
+C01198,97163905-9,Sergio Castro Guzmán,1976-04-02,Portezuelo,2020-10-01,Caja,True
+C01199,96.803.981-4,Jorge Pérez Figueroa,1972-10-27,CHILLÁN VIEJO,2021-05-08,Campaña en local,True
+C01200,99.480.531-2,Luis Rodríguez Lagos,1990-05-11,Chillán,2021-07-21,App móvil,True
+C90001,92270060-5,MATIAS RAMIREZ CARRASCO,1992-09-05,Coihueco,2022-12-26,Caja,True
+C90002,93010270-9,PAMELA SALAZAR SOTO,1986-07-29,Chillán Viejo,2021-10-23,App móvil,True
+C90003,90966849-2,TOMAS VASQUEZ VIDAL,1957-05-18,El Carmen,2024-04-12,App móvil,True
+C90004,918878521,JOAQUIN VASQUEZ YANEZ,1999-05-26,El Carmen,2022-07-06,,False
+C90005,984789734,ANA GUTIERREZ ALVAREZ,1975-06-23,Chillán,2023-05-06,Caja,True
+C90006,90502459-0,PAMELA MOLINA NAVARRO,1945-01-23,Bulnes,2023-05-11,Campaña en local,True
+C90007,97814035-1,ALVARO FIGUEROA PARRA,1985-03-07,Chillán,2023-03-20,Caja,False
+C90008,93130453-4,HECTOR FLORES HERRERA,1938-01-31,chillán,2022-03-27,,False
+C90009,98846354-k,JAVIERA MOLINA FUENTES,1959-12-05,chillán,2024-04-10,Caja,True
+C90010,94732700-3,CLAUDIA CONTRERAS BRAVO,2003-11-20,Chillán,2022-09-11,Caja,True
+C90011,90501707-1,RICARDO RODRIGUEZ DIAZ,1937-08-02,Chillán Viejo,2021-08-21,Caja,True
+C90012,93827564-5,CLAUDIA BRAVO ROJAS,1955-08-10,Bulnes,2024-04-28,Caja,True
+C90013,96891806-0,MARIA HERRERA HERRERA,2002-06-04,Pinto,2022-10-31,Caja,True
+C90014,90124249-6,CRISTIAN HERNANDEZ FERNANDEZ,1995-02-20,Chillán,2022-07-15,Caja,True
+C90015,95371059-5,JUAN SEPULVEDA FERNANDEZ,1994-09-03,Coihueco,2023-09-17,Caja,True
+C90016,99020571-K,PATRICIA CONTRERAS VASQUEZ,2003-03-15,  Bulnes ,2021-11-27,Campaña en local,True
+C90017,91820001-0,ANA VERA GUTIERREZ,1976-09-15,Chillán,2023-07-23,Campaña en local,True
+C90018,93980977-5,NATALIA SANDOVAL MOLINA,2003-12-15,Coihueco,2021-08-20,App móvil,False
+C90019,933278344,HECTOR CONTRERAS VERGARA,1958-10-16,Chillán,2023-07-24,Sitio web,False
+C90020,95396443-0,VALENTINA DIAZ VIDAL,1989-03-04,Pinto,2021-01-06,Caja,False
+C90021,96196330-3,JOSE PARRA TORRES,1999-01-12,Pinto,2022-02-28,Caja,True
+C90022,99305980-3,HECTOR BRAVO MARTINEZ,1957-04-12,Quillón,2021-05-18,Caja,True
+C90023,92269716-7,JOAQUIN REYES YANEZ,1982-07-22,Bulnes,2022-12-01,Caja,False
+C90024,99043090-K,ANTONIA CASTILLO RODRIGUEZ,1975-07-11,  Coihueco ,2023-03-16,Caja,False
+C90025,93943292-2,CATALINA FERNANDEZ ALVAREZ,1995-08-22,Chillán,2023-07-07,Caja,True
+C90026,96767135-5,VALENTINA FERNANDEZ BRAVO,1987-05-21,San Carlos,2023-04-18,Campaña en local,True
+C90027,94666712-9,ANTONIA TAPIA HERNANDEZ,1980-02-13,Pinto,2021-04-17,App móvil,True
+C90028,96679798-3,SEBASTIAN FUENTES TAPIA,1977-10-09,Chillán,2020-12-07,App móvil,True
+C90029,93549172-K,TOMAS AGUILERA PARRA,2006-03-19,Coihueco,2023-10-02,App móvil,True
+C90030,98067779-6,MARCELA SOTO LOPEZ,1976-11-19,San Fabián,2023-03-21,Caja,True
+C90031,98875425-0,SANDRA YANEZ CONTRERAS,1981-04-06,,2022-02-14,Campaña en local,True
+C90032,91249877-8,ALVARO ALVAREZ CARDENAS,2002-04-17,Yungay,2020-12-27,App móvil,True
+C90033,98767447-4,IGNACIO FERNANDEZ PEREZ,1952-09-06,Pemuco,2023-12-03,Caja,False
+C90034,99432649-K,ANTONIA VERGARA CARDENAS,1946-07-07,,2023-07-13,App móvil,True
+C90035,94681780-5,DANIELA FIGUEROA FUENTES,2000-11-07,Coihueco,2023-08-24,App móvil,True
+C90036,97101333-8,VALENTINA HERRERA RODRIGUEZ,1999-08-25,El Carmen,2021-02-04,Caja,False
+C90037,954651282,RODRIGO CAMPOS SILVA,1980-06-05,El Carmen,2020-08-17,Campaña en local,False
+C90038,92272193-9,CARMEN MARTINEZ MORALES,2002-01-15,Chillán,2020-12-03,,True
+C90039,98479204-2,FRANCISCO REYES ROJAS,1954-02-06,Chillán,2021-09-29,Caja,True
+C90040,93171591-7,CLAUDIA SANDOVAL VIDAL,2026-12-31,Chillán,2023-01-04,App móvil,True
+C90041,93871873-3,ANA PIZARRO RAMIREZ,1994-12-12,,2021-07-29,Caja,False
+C90042,91621426-K,VERONICA HERNANDEZ PEREZ,1996-01-21,Quillón,2021-10-12,Caja,False
+C90043,95543079-4,NICOLAS TAPIA SOTO,2000-12-15,San Carlos,2023-12-16,Sitio web,False
+C90044,97059318-7,JORGE TORRES MORALES,1971-07-22,Yungay,2022-10-06,Caja,False
+C90045,90147265-3,MAURICIO RODRIGUEZ VERA,2002-05-09,Chillán,2022-06-21,Caja,False

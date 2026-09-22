@@ -1,0 +1,96 @@
+id_producto,nombre_producto,categoria,precio_lista
+P001,Pan amasado kg,panaderia,2690.0
+P002,Marraqueta kg,Panadería,2190.0
+P003,Hallulla kg,Panadería,2190.0
+P004,Pan de molde 500g,Panadería,2490.0
+P005,Dobladitas 6un,Panadería ,1590.0
+P006,Empanada de queso un,Panadería,1290.0
+P007,Longaniza de Chillán kg,Carnicería,8990.0
+P008,Asado de tira kg,Carnicería,11990.0
+P009,Lomo vetado kg,Carnicería,13990.0
+P010,Pollo entero kg,Carnicería,3790.0
+P011,Chuleta de cerdo kg,CARNICERÍA,6990.0
+P012,Carne molida kg,Carnicería,7990.0
+P013,Prieta un,Carnicería ,1490.0
+P014,Costillar de cerdo kg,Carnicería,7490.0
+P015,Leche entera 1L,Lácteos,
+P016,Leche descremada 1L,Lácteos,1190.0
+P017,Yogurt pack 4un,Lácteos ,2290.0
+P018,Queso mantecoso kg,Lácteos,9990.0
+P019,Mantequilla 250g,lacteos,2690.0
+P020,Quesillo 250g,Lácteos,1890.0
+P021,Manjar 500g,Lácteos,2390.0
+P022,Crema 200ml,Lácteos,1190.0
+P023,Arroz grado 2 1kg,Abarrotes,1590.0
+P024,Fideos 400g,ABARROTES,
+P025,Harina sin polvos 1kg,ABARROTES,1290.0
+P026,Azúcar 1kg,Abarrotes,1390.0
+P027,Aceite vegetal 900ml,Abarrotes,2590.0
+P028,Sal 1kg,Abarrotes ,690.0
+P029,Levadura seca 10g,Abarrotes,490.0
+P030,Salsa de tomate 200g,Abarrotes,690.0
+P031,Atún en conserva 160g,Abarrotes,1890.0
+P032,Lentejas 1kg,Abarrotes,2290.0
+P033,Huevos 12un,abarrotes,3290.0
+P034,Té 20 bolsas,Abarrotes,1690.0
+P035,Café instantáneo 170g,Abarrotes,4990.0
+P036,Mermelada 250g,Abarrotes,1590.0
+P037,Bebida cola 3L,Bebidas,2890.0
+P038,Bebida naranja 1.5L,Bebidas,1690.0
+P039,Agua mineral 1.6L,Bebidas,990.0
+P040,Jugo en polvo sobre,BEBIDAS,390.0
+P041,Néctar 1L,Bebidas,1290.0
+P042,Bebida energética 500ml,Bebidas,1790.0
+P043,Cerveza lata 470cc,Licores,1290.0
+P044,Cerveza botella 1L,Licores,
+P045,Vino tinto 750ml,Licores,3490.0
+P046,Vino blanco 750ml,LICORES,
+P047,Pisco 35° 750ml,licores,8990.0
+P048,Ron 750ml,LICORES,9990.0
+P049,Palta kg,Frutas y Verduras,4990.0
+P050,Tomate kg,Frutas y Verduras,1990.0
+P051,Papa kg,frutas y verduras,990.0
+P052,Cebolla kg,Frutas y Verduras,1190.0
+P053,Lechuga un,Frutas y Verduras,890.0
+P054,Limón kg,Frutas y Verduras,1690.0
+P055,Plátano kg,Frutas y Verduras,1490.0
+P056,Manzana kg,Frutas y Verduras,1590.0
+P057,Zapallo camote kg,Frutas y Verduras ,1290.0
+P058,Choclo un,Frutas y Verduras,690.0
+P059,Zanahoria kg,Frutas y Verduras,990.0
+P060,Papas fritas congeladas 1kg,Congelados,2990.0
+P061,Helado 1L,Congelados,3490.0
+P062,Verduras congeladas 500g,Congelados,1890.0
+P063,Empanadas congeladas 6un,Congelados,4490.0
+P064,Nuggets 400g,Congelados,
+P065,Detergente 3kg,Aseo Hogar,6990.0
+P066,Cloro 900ml,Aseo Hogar ,1290.0
+P067,Lavaloza 750ml,ASEO HOGAR,1890.0
+P068,Papel higiénico 12un,Aseo Hogar,6490.0
+P069,Toalla de papel 3un,aseo hogar,3290.0
+P070,Bolsa de basura 20un,Aseo Hogar,1990.0
+P071,Esponja 3un,Aseo Hogar ,990.0
+P072,Shampoo 400ml,Higiene Personal,3990.0
+P073,Jabón 3un,Higiene Personal,1890.0
+P074,Pasta dental 90g,higiene personal,2190.0
+P075,Desodorante 150ml,Higiene Personal,3490.0
+P076,Toalla higiénica 16un,HIGIENE PERSONAL,2790.0
+P077,Pañales talla M 40un,Bebé,12990.0
+P078,Pañales talla G 36un,Bebé,12990.0
+P079,Toallitas húmedas 80un,BEBÉ,2490.0
+P080,Leche de fórmula 400g,Bebé,9990.0
+P081,Colonia bebé 250ml,bebe,3290.0
+P082,Alimento perro 10kg,Mascotas,15990.0
+P083,Alimento gato 3kg,mascotas,9990.0
+P084,Alimento perro 1.5kg,MASCOTAS,3490.0
+P085,Carbón 3kg,PARRILLA,3490.0
+P086,Encendedor gel 250ml,Parrilla,1490.0
+P087,Aliño completo 100g,Parrilla,890.0
+P088,Servilletas 100un,Parrilla,990.0
+P089,Vaso plástico 25un,Parrilla,1290.0
+P090,Carbón 5kg,Parrilla,
+P091,Papas fritas bolsa 250g,Snacks,2490.0
+P092,Galletas surtidas 400g,Snacks,2190.0
+P093,Chocolate 100g,snacks,1890.0
+P094,Ramitas 200g,Snacks,1590.0
+P095,Maní salado 200g,Snacks,1690.0
