@@ -30,3 +30,10 @@ boletas  = pd.read_csv(RUTA_DATOS + "boletas.csv")
 **Regla del curso:** el CSV crudo no se toca. Todo lo que se limpia se guarda con otro nombre.
 
 Material docente de uso educativo. Docente: Waldo Ledesma.
+
+## Notebooks del curso (`notebooks/`)
+
+Se abren en Colab con un clic, sin descargar nada — al abrir, `Archivo → Guardar una copia en Drive`:
+
+- **Semana 4 · Trabajo de investigación · Limpieza en Python:**
+  https://colab.research.google.com/github/de-mag-ia/diguillin-datos/blob/main/notebooks/S04-trabajo-colab-limpieza-diguillin.ipynb
