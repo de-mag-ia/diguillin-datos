@@ -1,0 +1,15 @@
+Ficha,Especie,Recordatorio,Distancia,Asistio
+101,Perro,WhatsApp,Cerca,Sí
+102,Perro,Ninguno,Cerca,No
+103,Gato,Correo,Cerca,Sí
+104,Perro,Correo,Lejos,No
+105,Perro,WhatsApp,Lejos,Sí
+106,Gato,Ninguno,Lejos,No
+107,Perro,Correo,Cerca,Sí
+108,Gato,WhatsApp,Cerca,Sí
+109,Perro,Ninguno,Lejos,No
+110,Gato,Correo,Lejos,No
+111,Perro,WhatsApp,Cerca,Sí
+112,Perro,Correo,Cerca,Sí
+113,Gato,WhatsApp,Lejos,Sí
+114,Perro,Ninguno,Cerca,No
